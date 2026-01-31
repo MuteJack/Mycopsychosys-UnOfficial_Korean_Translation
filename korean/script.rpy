@@ -40,7 +40,7 @@ translate korean WindowGameOver_02291171:
 translate korean WindowGameOver_47dc4d23:
 
     # p " Oh my god, Onna, what are you doing here?"
-    p "세상에, 온나씨, 여기서 뭐 하는 거에요?"
+    p "세상에, 온나 씨, 여기서 뭐 하는 거에요?"
 
 # game/script.rpy:249
 translate korean WindowGameOver_e80aaa63:
@@ -58,25 +58,25 @@ translate korean WindowGameOver_f391d2a6:
 translate korean WindowGameOver_46dbdee5:
 
     # p "Onna, all that blood."
-    p "온나씨, 이 피는 전부..."
+    p "온나 씨, 이 피는 전부..."
 
 # game/script.rpy:252
 translate korean WindowGameOver_f508c5ec:
 
     # w "I had to! It was going to infect me!"
-    w "어쩔 수 없었어! 그게 날 감염시키려 했거든!"
+    w "어쩔 수 없었어요! 그게 날 감염시키려 했다고요!"
 
 # game/script.rpy:255
 translate korean WindowGameOver_0e0383e1:
 
     # w "Sorry [Name], but I couldn't resist it."
-    w "죄송해요 [Name]씨, 하지만... 참을 수가 없었어요.."
+    w "죄송해요 [Name] 씨, 하지만... 참을 수가 없었어요.."
 
 # game/script.rpy:256
 translate korean WindowGameOver_e4fd54f9:
 
     # w "I was so lonely there all by myself."
-    w "거기는 혼자서... 너무 외로웠거든.."
+    w "거기서는... 혼자서... 너무 외로웠거든.."
 
 # game/script.rpy:264
 translate korean WindowGameOver_c759cef5:
@@ -88,7 +88,7 @@ translate korean WindowGameOver_c759cef5:
 translate korean WindowGameOver_90e9e971:
 
     # n "An.. An infected?!?"
-    n "감-감염자?!?"
+    n "가-감염자?!?"
 
 # game/script.rpy:266
 translate korean WindowGameOver_57a64df3:
@@ -118,19 +118,19 @@ translate korean WindowGameOver_a7dce4fa:
 translate korean WindowGameOver_81d682b0:
 
     # "*Noah looks at you unsure*"
-    "*노아가 확신 없이 너를 바라본다*"
+    "*노아가 불안한 눈빛으로 당신을 바라본다*"
 
 # game/script.rpy:271
 translate korean WindowGameOver_d7994b7d:
 
     # n "I will get help! I promise!"
-    n "도울 사람을 불러올게요! 약속할게!"
+    n "도울 사람을 불러올게요! 반드시!"
 
 # game/script.rpy:286
 translate korean WindowGameOver_92bc1035:
 
     # b "[Name] stay away from her! She's infected!"
-    b "[Name] 그녀에게서 떨어져! 감염됐어!"
+    b "[Name]! 그녀에게서 떨어져, 감염자야!"
 
 # game/script.rpy:290
 translate korean WindowGameOver_c759cef5_1:
@@ -148,7 +148,7 @@ translate korean WindowGameOver_90e9e971_1:
 translate korean WindowGameOver_597bd052:
 
     # "*Hugo grabs your hand and tries to pull you away, but your legs are paralyzed.*"
-    "*휴고가 네 손을 잡고 끌어내려 하지만, 당신의 다리는 얼어붙어있다.*"
+    "*휴고가 네 손을 잡고 끌어내려 하지만, 당신의 다리는 얼어붙어 있다.*"
 
 # game/script.rpy:294
 translate korean WindowGameOver_c1c31989:
@@ -178,7 +178,7 @@ translate korean WindowGameOver_55df47f4:
 translate korean WindowGameOver_faaadfd1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭐 하는 거-"
 
 # game/script.rpy:313
 translate korean WindowGameOver_00a0e43a:
@@ -202,13 +202,13 @@ translate korean WindowGameOver_3a52cde5:
 translate korean WindowGameOver_faaadfd1_1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭐 하는 거-"
 
 # game/script.rpy:331
 translate korean WindowGameOver_597bd052_1:
 
     # "*Hugo grabs your hand and tries to pull you away, but your legs are paralyzed.*"
-    "*휴고가 네 손을 잡고 끌어내려 하지만, 당신의 다리는 얼어붙어있다.*"
+    "*휴고가 당신의 손을 잡고 끌어내려 하지만, 당신의 다리는 얼어붙어 있다.*"
 
 # game/script.rpy:332
 translate korean WindowGameOver_c1c31989_1:
@@ -250,13 +250,13 @@ translate korean WindowGameOver_fea25b2a:
 translate korean WindowGameOver_de4b8631:
 
     # p "Onna...your eyes."
-    p "온나씨... 눈이..."
+    p "온나 씨... 눈이..."
 
 # game/script.rpy:352
 translate korean WindowGameOver_b1729475:
 
     # w "I'm sorry [Name]. I know we're not supposed to exit our homes but..."
-    w "죄송해요 [Name]씨. 집 밖으로 나가면 안 되는 거 알지만..."
+    w "죄송해요 [Name] 씨. 집 밖으로 나가면 안 되는 거 알지만..."
 
 # game/script.rpy:353
 translate korean WindowGameOver_1c799daf:
@@ -298,7 +298,7 @@ translate korean WindowGameOver_0acb04b7:
 translate korean WindowGameOver_a9775de8:
 
     # p "Onna... I... there's nothing I..."
-    p "온나씨... 제... 제가 할 수 있는 건..."
+    p "온나 씨... 제... 제가 할 수 있는 건..."
 
 # game/script.rpy:360
 translate korean WindowGameOver_48b6df2f:
@@ -310,7 +310,7 @@ translate korean WindowGameOver_48b6df2f:
 translate korean WindowGameOver_755602ce:
 
     # w "I tried to do what you told me to do... But I started to feel sick and lonely almost immediately."
-    w "네가 시킨 대로 하려고 했어... 하지만 얼마 안되서 아프고.. 외로워지기 시작했어."
+    w "네가 시킨 대로 하려고 했어... 하지만 얼마 안돼서 아프고.. 외로워지기 시작했어."
 
 # game/script.rpy:363
 translate korean WindowGameOver_173e4bda:
@@ -328,13 +328,13 @@ translate korean WindowGameOver_3a377d0e:
 translate korean WindowGameOver_e3f82c84:
 
     # p " Onna, what are you talking about?"
-    p "온나, 무슨 소리를 하는거야?"
+    p "온나 씨, 무슨 소리를 하는 거예요?"
 
 # game/script.rpy:369
 translate korean WindowGameOver_b983beab:
 
     # w "I want to be beautiful, I want to be beautiful and bloom. We need to go to a high place, so we both become beautiful."
-    w "나는 아름다워지고 싶어, 아름답게 피어나고 싶어. 우리 높은 곳으로 가야 해, 그래야 우리 둘 다 아름다워질 수 있어."
+    w "나는 아름다워지고 싶어, 아름답게 피어나야해... 맞아, 우리는 높은 곳으로 가야 해, 우리 둘 다 아름다워질 수 있게."
 
 # game/script.rpy:371
 translate korean WindowGameOver_83406e0e:
@@ -346,7 +346,7 @@ translate korean WindowGameOver_83406e0e:
 translate korean WindowGameOver_9a39e0a9:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:373
 translate korean WindowGameOver_0973db23:
@@ -364,13 +364,13 @@ translate korean WindowGameOver_66e14473:
 translate korean WindowGameOver_f64ad904:
 
     # p " No... it can't be... I need to escape."
-    p "안 돼... 이럴 리가... 도망쳐야 해."
+    p "안 돼... 이럴 수는... 당장 도망쳐야 해."
 
 # game/script.rpy:383
 translate korean BasementGameOver_d0e23d38:
 
     # p " What the-"
-    p "뭐야-"
+    p "이게 뭔-"
 
 # game/script.rpy:388
 translate korean BasementGameOver_f1f251e2:
@@ -382,7 +382,7 @@ translate korean BasementGameOver_f1f251e2:
 translate korean BasementGameOver_1547ec3f:
 
     # n "What the fuck!?"
-    n "뭐야 이게!?"
+    n "이건 또 무슨 개-!?"
 
 # game/script.rpy:397
 translate korean BasementGameOver_d3835cf5:
@@ -394,13 +394,13 @@ translate korean BasementGameOver_d3835cf5:
 translate korean BasementGameOver_c0d31e5a:
 
     # b "Sorry [Name], but I couldn't resist it."
-    b "죄송해요 [Name]씨, 하지만 참을 수가 없었어요."
+    b "죄송해요 [Name] 씨, 하지만 참을 수가 없었어요."
 
 # game/script.rpy:399
 translate korean BasementGameOver_fb086a06:
 
     # b "That basement is so cold and lonely..."
-    b "그 지하실은 너무 춥고 외로웠어..."
+    b "그 지하실은 너무 춥고 외로워..."
 
 # game/script.rpy:400
 translate korean BasementGameOver_1b356a69:
@@ -430,13 +430,13 @@ translate korean BasementGameOver_84221df7:
 translate korean BasementGameOver_3d570c01:
 
     # p " No... Stay away! Noah, get out!"
-    p "안 돼... 나한테서 떨어져! 노아, 여기서 나가!"
+    p "오지마..! 나한테서 떨어져! 노아, 당장 여기서 나가!"
 
 # game/script.rpy:411
 translate korean BasementGameOver_a5fb2906:
 
     # b "Come on... come here..."
-    b "이리 와... 내게로 와..."
+    b "이리 와... 내게로..."
 
 # game/script.rpy:415
 translate korean BasementGameOver_ad6595c8:
@@ -484,19 +484,19 @@ translate korean BasementGameOver_c36d54c3:
 translate korean BasementGameOver_1fc0e4e1:
 
     # b "We both can be... we just need to go to a high place."
-    b "우리 둘 다 될 수 있어... 높은 곳으로 올라가기만 하면 돼."
+    b "우리 둘 다 될 수 있어... 그저 높은 곳으로 올라가기만 하면 돼."
 
 # game/script.rpy:428
 translate korean BasementGameOver_83406e0e:
 
     # p " No... stay away from me!"
-    p "오지마...! 나한테서 떨어져!"
+    p "오지마..! 나한테서 떨어져!"
 
 # game/script.rpy:429
 translate korean BasementGameOver_9a39e0a9:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:430
 translate korean BasementGameOver_0973db23:
@@ -520,7 +520,7 @@ translate korean BasementGameOver_4f056250:
 translate korean BasementGameOver_c0d31e5a_1:
 
     # b "Sorry, [Name] I couldn't resist it."
-    b "죄송해요, [Name]씨. 하지만 참을 수가 없었어요."
+    b "죄송해요, [Name] 씨. 하지만 참을 수가 없었어요."
 
 # game/script.rpy:437
 translate korean BasementGameOver_fb086a06_1:
@@ -586,13 +586,13 @@ translate korean BasementGameOver_1fc0e4e1_1:
 translate korean BasementGameOver_83406e0e_1:
 
     # p " No... stay away from me!"
-    p "안 돼... 나한테서 떨어져!"
+    p "오지마...! 나한테서 떨어져!"
 
 # game/script.rpy:451
 translate korean BasementGameOver_9a39e0a9_1:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:452
 translate korean BasementGameOver_0973db23_1:
@@ -670,7 +670,7 @@ translate korean GameOver_a631f9bf_2:
 translate korean GameOver_e1e7dbaa:
 
     # " I should go to a high place."
-    "높은 곳으로.. 가야 해..."
+    "높은... 곳으로.. 가야 해..."
 
 # game/script.rpy:509
 translate korean GameOver_7160aa09:
@@ -730,7 +730,7 @@ translate korean GameOver_10f69f0e:
 translate korean GameOver_35fc2e26:
 
     # "Because from now on, and until the end of time."
-    "왜냐하면 지금부터, 그리고 시간의 끝까지."
+    "왜냐하면 지금부터, 그리고 이 순간의 마지막까지."
 
 # game/script.rpy:519
 translate korean GameOver_24cb02a8:
@@ -928,7 +928,7 @@ translate korean BadEnd_717ccf9b:
 translate korean EndHugo_3dc3fe46:
 
     # b "And you do that 8 hours a day? 5 Days a week?"
-    b "그걸 하루에 8시간씩? 일주일에 5일?"
+    b "그걸 하루에 8시간씩 한다고? 일주일에 5일을?"
 
 # game/script.rpy:598
 translate korean EndHugo_675d3507:
@@ -946,7 +946,7 @@ translate korean EndHugo_a05e5eae:
 translate korean EndHugo_0151a69f:
 
     # p "Well it pays good and I can do it from my home computer."
-    p "음, 돈도 잘 주고 집 컴퓨터로 할 수 있거든."
+    p "음, 돈도 잘 주고, 집 컴퓨터로 재택근무를 할 수도 있거든."
 
 # game/script.rpy:602
 translate korean EndHugo_5cc82a4e:
@@ -976,7 +976,7 @@ translate korean EndHugo_0f4cfa32:
 translate korean EndHugo_a462f97d:
 
     # p "Well yeah but I also want to laugh about your job as much as you do about mine. What do you do?"
-    p "그래 근데 나도 네 직업을 네가 내 것처럼 비웃고 싶어. 뭐 해?"
+    p "그래 근데 나도 네가 내 직업을 비웃은 것 처럼 놀리고 싶어. 그래서 무슨일 하는데?"
 
 # game/script.rpy:609
 translate korean EndHugo_58ed64a2:
@@ -988,19 +988,19 @@ translate korean EndHugo_58ed64a2:
 translate korean EndHugo_9857483c:
 
     # p "Oh like a government official? Come on... be more specific. A cop? You sure as hell don't look like one."
-    p "오 공무원처럼? 좀 더 구체적으로. 경찰? 넌 확실히 경찰처럼 안 생겼는데."
+    p "오 공무원 같은 거야? 좀 더 구체적으로. 경찰? 아냐, 확실히 경찰을 할 관상은 아니야 하하하."
 
 # game/script.rpy:612
 translate korean EndHugo_1ea5c449:
 
     # b "Let's say that if I told you... I would have to kill you... hahaha."
-    b "내가 말하면... 널 죽여야 할 거야... 하하하."
+    b "내가 그걸 말해주면... 널 죽여야 할 걸... 하하하."
 
 # game/script.rpy:613
 translate korean EndHugo_1f346edb:
 
     # p "It's not fair. You can laugh at my job and I can't even know yours?"
-    p "불공평해. 넌 내 직업 비웃을 수 있는데 난 네 직업도 모른다고?"
+    p "그건 불공평하지. 넌 내 직업으로 놀렸는데 난 네 직업도 모른다고?"
 
 # game/script.rpy:615
 translate korean EndHugo_bf51376b:
@@ -1060,13 +1060,13 @@ translate korean EndHugo_15678785:
 translate korean EndHugo_f97fc748:
 
     # p "I cleaned the basement by the way. In case you want to break in again."
-    p "그나저나 지하실 청소했어. 또 침입하고 싶을 경우를 대비해서."
+    p "그나저나 지하실은 내가 청소해 뒀어. 또 몰래 기어들어 오고 싶을 경우를 대비해서."
 
 # game/script.rpy:633
 translate korean EndHugo_b43f090f:
 
     # b "Finally, that place was in need of a cleaning."
-    b "드디어, 거긴 청소가 필요했거든."
+    b "워- 거기 먼지 엄청 많을텐데?"
 
 # game/script.rpy:634
 translate korean EndHugo_2d105284:
@@ -1084,13 +1084,13 @@ translate korean EndHugo_850ef128:
 translate korean EndHugo_1b640dae:
 
     # p "What?"
-    p "뭐?"
+    p "...그정도야?"
 
 # game/script.rpy:638
 translate korean EndHugo_cf0d358c:
 
     # b "I saw spiders the size of my hand. I'm surprised you didn't burn the whole place down."
-    b "내 손만한 거미들 봤어. 네가 그 곳을 다 태워버리지 않은 게 놀랍네."
+    b "내 손바닥만 한 거미들이 있던데..? 내 집이었다면 불이라도 질러버렸을 거야."
 
 # game/script.rpy:639
 translate korean EndHugo_ed954629:
@@ -1414,7 +1414,7 @@ translate korean EndOnna_07797ba9:
 translate korean EndBoth_71e770cb:
 
     # w "And then I heard a banging sound coming from my front door and there it was."
-    w "그리고 현관문에서 쾅쾅거리는 소리가 들렸고 거기 있었어."
+    w "그리고 현관문에서 쾅쾅거리는 소리가 들렸고 거기에 그게 있었어."
 
 # game/script.rpy:742
 translate korean EndBoth_4e5215b5:
@@ -1426,7 +1426,7 @@ translate korean EndBoth_4e5215b5:
 translate korean EndBoth_1f55926a:
 
     # w "Banging like a maniac and with it's eyes covered in mold. The door frame was bulging in so much he was able to stick its fingers inside."
-    w "미친 듯이 두드리고 눈은 곰팡이로 덮여 있었어. 문틀이 너무 휘어져서 손가락을 안으로 넣을 수 있었어."
+    w "문은 미친 듯이 두드리고 눈은 곰팡이로 덮여 있었어. 문틀이 너무 휘어져서 손가락이 들어갈정도로 휘어졌고."
 
 # game/script.rpy:744
 translate korean EndBoth_23a37334:
@@ -1438,19 +1438,19 @@ translate korean EndBoth_23a37334:
 translate korean EndBoth_51719717:
 
     # w "I knocked down a table I have in my hall to try and slow it down, and then I called [Name]."
-    w "복도에 있는 테이블을 넘어뜨려서 늦추려고 했고, 그다음 [Name]한테 전화했어."
+    w "복도에 있는 테이블을 넘어뜨려서 문을 막고, [Name]한테 전화했어."
 
 # game/script.rpy:746
 translate korean EndBoth_ce62f667:
 
     # b "Oh... so that was you. I heard the phone ringing a bunch of times that night."
-    b "아... 그게 너였구나. 그날 밤 전화벨이 여러 번 울리는 걸 들었어."
+    b "아... 그게 너였구나. 그날 밤에 전화기가 여러 번 울리는 걸 들었어."
 
 # game/script.rpy:747
 translate korean EndBoth_dd64e0d8:
 
     # w "Yeah, I don't know how many times I called. I was panicking."
-    w "응, 몇 번이나 전화했는지 모르겠어. 너무 불안했거든."
+    w "응, 몇 번이나 전화했는지 모르겠어. 무서워 죽을 뻔했거든."
 
 # game/script.rpy:748
 translate korean EndBoth_f29faa7f:
@@ -1474,25 +1474,25 @@ translate korean EndBoth_63102c9b:
 translate korean EndBoth_cea53391:
 
     # w "Told me to hide in my bathroom and wait. And so I did, awaiting the help of my knight in shining armor."
-    w "화장실에 숨어서 기다리라고 했어. 그래서 빛나는 갑옷을 입은 기사의 도움을 기다렸지."
+    w "화장실에 숨어서 기다리라고 했어. 그래서 화장실로 뛰어가서 빛나는 갑옷을 입은 기사님을 기다렸지."
 
 # game/script.rpy:753
 translate korean EndBoth_471bb49d:
 
     # "*You can feel your cheeks blushing.*"
-    "*볼이 붉어지는 게 느껴진다.*"
+    "*당신의 볼이 붉어지는 게 느껴진다.*"
 
 # game/script.rpy:754
 translate korean EndBoth_6a3fc9a9:
 
     # p "Oh come on..."
-    p "아 그만..."
+    p "아 제발..."
 
 # game/script.rpy:755
 translate korean EndBoth_c1ec7585:
 
     # b "And it worked?"
-    b "그래서 됐어?"
+    b "그래서 어떻게 됐어?"
 
 # game/script.rpy:757
 translate korean EndBoth_654d42b2:
@@ -1504,37 +1504,37 @@ translate korean EndBoth_654d42b2:
 translate korean EndBoth_92ebcb07:
 
     # b "Wow. Seems like compared to you we had a great night here, right [Name]?"
-    b "와. 너에 비하면 우린 여기서 좋은 밤을 보낸 것 같네, 그렇지 [Name]?"
+    b "와. 너에 비하면 우린 정말 평화로웠네. 안그래 [Name]?"
 
 # game/script.rpy:760
 translate korean EndBoth_e82d17db:
 
     # p "Speak for yourself. I also had a stranger break into my basement and coerce me to let him in."
-    p "네 얘기나 해. 나도 낯선 사람이 지하실에 침입해서 들여보내라고 협박했거든."
+    p "네 얘기나 좀 해봐. 나도 왠 낯선 사람이 지하실에 침입해서 들여보내라고 협박당했거든."
 
 # game/script.rpy:761
 translate korean EndBoth_d95cb3fd:
 
     # b "I didn't coerce you!"
-    b "난 협박 안 했어!"
+    b "난 너 협박한 적 없어!"
 
 # game/script.rpy:762
 translate korean EndBoth_bba34c99:
 
     # p "Oh my god, I miss my cat. I'm cold. wahh wahh wahhh..."
-    p "세상에, 내 고양이가 보고 싶어. 추워. 엉엉엉..."
+    p "그때 뭐라 했더라? 아 제발요, 내 고양이가 보고 싶어요. 추워요. 엉엉엉..."
 
 # game/script.rpy:764
 translate korean EndBoth_6d776065:
 
     # w "Hahahaha the cat mention is master manipulation 101"
-    w "하하하하 고양이 언급은 조종의 기본이지"
+    w "하하하 고양이는 아주 좋은 협상 수단이지"
 
 # game/script.rpy:765
 translate korean EndBoth_e8445d0b:
 
     # b "I don't like this team up against me..."
-    b "나한테 팀을 짜는 거 마음에 안 들어..."
+    b "너도 쟤 편이구나..."
 
 # game/script.rpy:767
 translate korean EndBoth_9cb8e336:
@@ -1552,19 +1552,19 @@ translate korean EndBoth_5e8933fc:
 translate korean EndBoth_0f2775d9:
 
     # b "He's fine. I have to put him on a diet."
-    b "잘 있어. 다이어트 시켜야 해."
+    b "걔는 무사해. 오히려 너무 살이 쪄서 다이어트 시켜야 될 지경이야."
 
 # game/script.rpy:772
 translate korean EndBoth_dc94fb30:
 
     # w "Oh! Now that I remember!"
-    w "아! 이제 생각났어!"
+    w "아 맞아!"
 
 # game/script.rpy:774
 translate korean EndBoth_a211ab40:
 
     # w "I forgot about this due to all that happened with the infected breaking in and stuff, but I had another strange encounter that night."
-    w "감염자가 침입하고 그런 일들 때문에 잊어버렸는데, 그날 밤 또 다른 이상한 사람이 찾아왔었어."
+    w "너무 정신없어서 잊고있었는데, 그날 밤 이상한 사람이 찾아왔었어."
 
 # game/script.rpy:775
 translate korean EndBoth_ad5386c9:
@@ -1576,13 +1576,13 @@ translate korean EndBoth_ad5386c9:
 translate korean EndBoth_e3adffd3:
 
     # w "A weird man tried to sell me a water filter. He said he was from the PCD. What was his name..."
-    w "이상한 남자가 정수 필터를 팔려고 했어. 자기가 PCD에서 왔다고 했어. 이름이 뭐였더라..."
+    w "어떤 이상한 남자가 정수 필터를 팔려고 했어. 자기가 방역관리국에서 왔다고 하면서. 이름이 뭐였더라..."
 
 # game/script.rpy:778
 translate korean EndBoth_7485713c:
 
     # p "Ray?"
-    p "레이?"
+    p "혹시 이름이 레이야?"
 
 # game/script.rpy:779
 translate korean EndBoth_754a1bce:
@@ -1594,43 +1594,43 @@ translate korean EndBoth_754a1bce:
 translate korean EndBoth_e698c7ab:
 
     # p "He also came to my door like a hundred times that night. I think he was infected because he was acting so strangely..."
-    p "그 사람도 그날 밤 내 문에 백 번은 온 것 같아. 너무 이상하게 행동해서 감염된 것 같았어..."
+    p "그 사람도 내 집에 몇백 번은 찾아온 것 같아. 이상하게 행동하는게 감염자인 것 같던데..."
 
 # game/script.rpy:781
 translate korean EndBoth_bcb10917:
 
     # b "Wait, Ray? Could you describe him?"
-    b "잠깐, 레이? 묘사해줄 수 있어?"
+    b "잠깐, 레이라고? 어떻게 생겼는지 말해줄 수 있어?"
 
 # game/script.rpy:782
 translate korean EndBoth_3e1f6732:
 
     # p "Tall, with a one day beard. Pulled back half mane, sunglasses and a suit. He was maybe 35 or something like that."
-    p "키가 크고, 하루 자란 수염. 뒤로 넘긴 머리, 선글라스에 정장. 35살쯤 됐을 거야."
+    p "키가 크고, 올백 머리에, 선글라스에 정장을 입었어. 수염은 하루 정도 안 깎은 것 같고. 35살 정도 됐을 거야."
 
 # game/script.rpy:784
 translate korean EndBoth_a9ca9f9a:
 
     # b "Oh..."
-    b "오..."
+    b "어..."
 
 # game/script.rpy:785
 translate korean EndBoth_fce02d46:
 
     # w "Did you know him?"
-    w "그 사람 알아?"
+    w "아는 사람이야?"
 
 # game/script.rpy:786
 translate korean EndBoth_2a47348b:
 
     # b "Oh no no, I was just curious."
-    b "아 아니, 그냥 궁금해서."
+    b "아 아냐, 그냥 궁금해서."
 
 # game/script.rpy:788
 translate korean EndBoth_1efe169b:
 
     # "*Hugo seems to become more serious and the conversation dies down a bit.*"
-    "*휴고가 더 진지해지는 것 같고 대화가 잠시 뜸해진다.*"
+    "*휴고가 진지한 표정을 지으며, 잠시 정적이 흘렀다.*"
 
 # game/script.rpy:790
 translate korean EndBoth_849e9ac2:
@@ -1648,7 +1648,7 @@ translate korean EndBoth_a90e566f:
 translate korean EndBoth_c8bac6d0:
 
     # w "For this new {color=#f00}beautiful{/color} friendship! And for the sporestorm that united us!"
-    w "이 새롭고 {color=#f00}아름다운{/color} 우정을 위해! 그리고 우리를 이어준 포자 폭풍을 위해!"
+    w "이 새롭고 {color=#f00}아름다운{/color} 우정을 위하여! 그리고 우리를 이어준 포자 폭풍도 위하여!"
 
 # game/script.rpy:793
 translate korean EndBoth_c3dcc92b:
@@ -1666,13 +1666,13 @@ translate korean EndBoth_4bad23f2:
 translate korean EndBoth_a8cdfe6e:
 
     # p "...you both are equally edgy..."
-    p "...둘 다 똑같이 날카롭네..."
+    p "...너희 둘, 나한테 원한 있는 거 아니지...?"
 
 # game/script.rpy:797
 translate korean EndBoth_e66eeffe:
 
     # "The three of you toast and the night continues, full of laughs and fun."
-    "셋이 건배하고 밤은 웃음과 재미로 가득 차 계속된다."
+    "셋은 건배를 하며, 밤은 웃음으로 가득한 채 흘러간다."
 
 # game/script.rpy:801
 translate korean EndBoth_01520938:
@@ -1684,19 +1684,19 @@ translate korean EndBoth_01520938:
 translate korean EndNoah_bd108bc3:
 
     # b "I honestly can't believe you climbed all the way up here. You're an agile one."
-    b "솔직히 네가 여기까지 올라온 게 믿기지 않아. 민첩하구나."
+    b "솔직히 네가 여기까지 올라온 게 믿기지 않아. 너 보기보다 민첩하구나."
 
 # game/script.rpy:812
 translate korean EndNoah_9715ed14:
 
     # r "Meh, it was difficult the first time, but it gets easy with practice."
-    r "음, 처음엔 어려웠는데, 연습하면 쉬워져."
+    r "음, 처음엔 어려웠는데, 연습하다 보면 쉬워져요."
 
 # game/script.rpy:814
 translate korean EndNoah_abeceb40:
 
     # p "Practice? How many times have you done this?"
-    p "연습? 이거 몇 번이나 한 거야?"
+    p "연습? 이걸 몇 번이나 한 거야?"
 
 # game/script.rpy:815
 translate korean EndNoah_b9b755e5:
@@ -1708,7 +1708,7 @@ translate korean EndNoah_b9b755e5:
 translate korean EndNoah_5c4826be:
 
     # r "I won't say anything without a lawyer present."
-    r "변호사 없이는 아무 말도 안 할 거야."
+    r "..변호사 오기 전에는 아무 말도 안 할 거에요."
 
 # game/script.rpy:818
 translate korean EndNoah_dd13d5fc:
@@ -1738,43 +1738,43 @@ translate korean EndNoah_5622f0a6:
 translate korean EndNoah_a357c1d4:
 
     # r "My dad, he's going to kill me."
-    r "아빠가... 날 죽일 거야."
+    r "아빠가 알면... 날 죽일 거야."
 
 # game/script.rpy:824
 translate korean EndNoah_0ffd89f2:
 
     # b "You have a grudge with your old man?"
-    b "아버지랑 사이가 안 좋아?"
+    b "아버지랑 사이가 많이 안 좋아?"
 
 # game/script.rpy:825
 translate korean EndNoah_161e505b:
 
     # r "A grudge? That's putting it lightly."
-    r "사이가 안 좋다고? 그건 약하게 말한 거야."
+    r "사이가 안 좋은 정도면 차라리 다행이죠."
 
 # game/script.rpy:826
 translate korean EndNoah_c078d3d0:
 
     # r "He hates my guts, and the feeling is mutual."
-    r "그는 날 미워해, 나도 마찬가지고."
+    r "그 사람은 날 혐오해요, 저도 마찬가지고."
 
 # game/script.rpy:827
 translate korean EndNoah_6b0a4f0a:
 
     # p "It can't be that bad."
-    p "그렇게 심할 리가."
+    p "그 정도야..?"
 
 # game/script.rpy:828
 translate korean EndNoah_17526f12:
 
     # r "Do you think I'd do all of this for fun? I don't do crime because I like to."
-    r "내가 이걸 재미로 한다고 생각해? 좋아서 범죄 저지르는 게 아니야."
+    r "제가 사람들 집터는걸 재미로 한다고 생각해요? 저도 좋아서 하는 거 아니에요."
 
 # game/script.rpy:829
 translate korean EndNoah_e9ec5935:
 
     # r "Sometimes it's the only way I can afford clothes... or warm food..."
-    r "가끔 이게 옷을 사거나... 따뜻한 음식을 먹을 수 있는 유일한 방법이야..."
+    r "이거라도 안하면... 먹을 것도, 입을 옷도, 아무것도 없다고요..."
 
 # game/script.rpy:831
 translate korean EndNoah_c8ea8a4a:
@@ -1798,31 +1798,31 @@ translate korean EndNoah_16fe4549:
 translate korean EndNoah_3d2a0cb0:
 
     # b "But I can assure you this life will take you to only one place, and it's a shitty one."
-    b "하지만 이런 삶은 딱 한 곳으로만 데려갈 거야, 그리고 그곳은 최악이야."
+    b "하지만 이렇게 살면 나중에 갈 수 있는 곳은 한 곳뿐이야. 그리고 그곳은 더 최악일 거고."
 
 # game/script.rpy:837
 translate korean EndNoah_a9b2215e:
 
     # r "Have you... been there?"
-    r "거기... 가봤어?"
+    r "거기... 가봤어요?"
 
 # game/script.rpy:838
 translate korean EndNoah_5f6281d5:
 
     # b "I spent some time there, yeah."
-    b "거기서 좀 보냈어, 응."
+    b "음... 거기서 좀 있었어."
 
 # game/script.rpy:839
 translate korean EndNoah_1873f693:
 
     # r "And how did you get out?"
-    r "어떻게 나왔어?"
+    r "어떻게 나왔어요?"
 
 # game/script.rpy:840
 translate korean EndNoah_a0dc386c:
 
     # b "Things... got better."
-    b "상황이... 나아졌어."
+    b "상황이... 좀 나아졌다고만 해둘게."
 
 # game/script.rpy:841
 translate korean EndNoah_b9b755e5_1:
@@ -1834,19 +1834,19 @@ translate korean EndNoah_b9b755e5_1:
 translate korean EndNoah_262089a7:
 
     # r "I doubt that'll be my case."
-    r "내 경우는 그렇지 않을 것 같아."
+    r "아마 저는 안 그럴 거에요."
 
 # game/script.rpy:844
 translate korean EndNoah_b2310fb5:
 
     # r "My luck has always been out, since the day I was born."
-    r "운이 항상 안 좋았어, 태어난 날부터."
+    r "저는 운이 항상 안 좋았어요, 태어난 그 순간부터."
 
 # game/script.rpy:845
 translate korean EndNoah_00122d7a:
 
     # r "My dad says that was the worst day of his life. And I think it was mine too."
-    r "아빠는 그날이 인생 최악의 날이라고 해. 나도 그런 것 같아."
+    r "아빠는 그날이 인생 최악의 날이라고 했어요. 저도 그렇게 생각하고요."
 
 # game/script.rpy:846
 translate korean EndNoah_850ef128_1:
@@ -1870,37 +1870,37 @@ translate korean EndNoah_f004b71b:
 translate korean EndNoah_26a871df:
 
     # r "Wh-what?"
-    r "뭐-뭐?"
+    r "뭐-뭐라고요?"
 
 # game/script.rpy:851
 translate korean EndNoah_841b30b3:
 
     # b "Fuck that!"
-    b "집어치우라고!"
+    b "작작 하라고!"
 
 # game/script.rpy:852
 translate korean EndNoah_4b25a6cd:
 
     # b "Yeah, your life is shit. So what? My shitty parents kicked me out of home when I was 16."
-    b "그래, 네 인생은 구려. 그래서? 내 구린 부모님은 16살 때 날 집에서 쫓아냈어."
+    b "그래, 네 인생 막장이야. 그래서? 내 빌어먹을 부모놈은 16살 때 날 집에서 쫓아냈어."
 
 # game/script.rpy:853
 translate korean EndNoah_473d9a00:
 
     # b "Yeah, you have no money and have to resort to petty crimes to get by. So what? I also had to so things I didn't like just to have a roof over my head."
-    b "그래, 돈이 없어서 살려고 잔범죄를 저질러야 해. 그래서? 나도 지붕 아래 있으려고 싫은 짓을 해야 했어."
+    b "그래, 돈이 없어서 살려고 이런저런 짓 다 해봤네. 그래서? 나도 살아남으려고 그런 짓을 해야 했어."
 
 # game/script.rpy:854
 translate korean EndNoah_c37b920e:
 
     # b "And even then I ended up in prison."
-    b "그러고도 결국 감옥에 갔어."
+    b "결국 감옥에도 가봤고."
 
 # game/script.rpy:855
 translate korean EndNoah_3e257dc8:
 
     # b "But I'm here! Despite everything, I'm still here and I'm still me!"
-    b "하지만 난 여기 있어! 모든 것에도 불구하고, 아직 여기 있고 아직 나야!"
+    b "그런데 여기 있어! 그런 일이 있었어도, 나는 아직 여기 있다고!"
 
 # game/script.rpy:856
 translate korean EndNoah_2b235ecf:
@@ -1912,19 +1912,19 @@ translate korean EndNoah_2b235ecf:
 translate korean EndNoah_dab5fbfe:
 
     # r "Haven't you thought that maybe I'm not like you? That maybe I'm not capable of doing what you did?"
-    r "내가 너 같지 않을 수도 있다고 생각 안 해봤어? 네가 한 걸 못할 수도 있다고?"
+    r "내가 너 같지 않을 수도 있다고 생각 안 해봤어?"
 
 # game/script.rpy:859
 translate korean EndNoah_6cc89656:
 
     # r "Congratulations! You're awesome and did awesome things despite your shitty circumstances! Good for you, dumbass!"
-    r "축하해! 넌 대단하고 구린 상황에도 대단한 일을 했네! 잘했어, 바보야!"
+    r "축하해! 그런 상황에서도 참 대단한 일을 했네! 참 잘했어, 이 멍청아!"
 
 # game/script.rpy:861
 translate korean EndNoah_b82130ff:
 
     # b "Fuck that too. I'm not awesome. Neither are you or [Name]."
-    b "그것도 집어치워. 난 대단하지 않아. 너도 [Name]도 마찬가지야."
+    b "난 그렇게 대단한 놈이 아니야. 너도, [Name]도 마찬가지야."
 
 # game/script.rpy:862
 translate korean EndNoah_c8de8992:
@@ -1936,19 +1936,19 @@ translate korean EndNoah_c8de8992:
 translate korean EndNoah_ae6595cf:
 
     # b "We're all just unlucky people living in a shitty world. And this shitty world survives by feeding off unlucky people until they turn them into losers."
-    b "우린 다 구린 세상에 사는 불운한 사람들이야. 이 구린 세상은 불운한 사람들을 루저로 만들 때까지 빨아먹고 살아."
+    b "우린 다 이딴 세상에 사는 불행한 놈들이야. 이 세상은 그런 사람들을 루저로 만들 때까지 빨아먹고."
 
 # game/script.rpy:864
 translate korean EndNoah_c79affd3:
 
     # b "Your dad is a loser. My parents were both losers. Don't let it turn you into one."
-    b "네 아빠는 루저야. 내 부모님도 둘 다 루저였어. 네가 그렇게 되게 두지 마."
+    b "네 아빠는 쓰레기야. 내 부모님도 둘 다 쓰레기고. 그렇다해서 너도 그런 놈들처럼 되지는 마."
 
 # game/script.rpy:866
 translate korean EndNoah_5eff5db0:
 
     # r "I-"
-    r "나-"
+    r "저-"
 
 # game/script.rpy:867
 translate korean EndNoah_b9b755e5_2:
@@ -1960,7 +1960,7 @@ translate korean EndNoah_b9b755e5_2:
 translate korean EndNoah_37b8acf3:
 
     # p " I could maybe try to hook you up with a job. I know a pizza place downtown that's looking for a delivery person."
-    p "내가 일자리 연결해줄 수 있을 것 같아. 시내에 배달원 찾는 피자집 알거든."
+    p "내가 일자리 하나 알려줄게. 시내에 내가 아는 피자집이 배달원을 구하고있거든."
 
 # game/script.rpy:869
 translate korean EndNoah_b9b755e5_3:
@@ -2008,7 +2008,7 @@ translate korean GameOverSilvia_e379504b:
 translate korean GameOverSilvia_f900ba49:
 
     # s "They call us crazy when we are the most sane."
-    s "우리가 가장 제정신인데 미쳤다고 하지."
+    s "우리가 가장 제정신인데 사람들은 우리를 보고 미쳤다고 하지."
 
 # game/script.rpy:890
 translate korean GameOverSilvia_87391f0e:
@@ -2026,13 +2026,13 @@ translate korean GameOverSilvia_c0d7f3d2:
 translate korean GameOverSilvia_f346d9ee:
 
     # s "Oh but poor [Name], don't worry. I am here to help after all."
-    s "오 하지만 불쌍한 [Name], 걱정하지 마. 난 도우러 온 거니까."
+    s "오 하지만 걱정하지 마, 불쌍한 [Name]. 어찌 됐든 난 너를 도우러 온 거니까."
 
 # game/script.rpy:893
 translate korean GameOverSilvia_0398f2fa:
 
     # s "Would you be so kind to open the door so I can arrest this dangerous criminal?"
-    s "이 위험한 범죄자를 체포할 수 있게 문 좀 열어줄래?"
+    s "저 위험한 범죄자를 체포할 수 있게 문 좀 열어줄래?"
 
 # game/script.rpy:896
 translate korean GameOverSilvia_8331c99c:
@@ -2044,19 +2044,19 @@ translate korean GameOverSilvia_8331c99c:
 translate korean GameOverSilvia_63811c12:
 
     # s "The guidelines have changed. Protocol DangerousCriminal-04 has been activated. Your housing unit is no longer safe."
-    s "지침이 바뀌었어. 위험범죄자-04 프로토콜이 활성화됐어. 네 주거 유닛은 더 이상 안전하지 않아."
+    s "지침이 바뀌었어. 고위험인물-04 프로토콜이야. 네 주거 유닛은 더 이상 안전하지 않아."
 
 # game/script.rpy:898
 translate korean GameOverSilvia_c309e27c:
 
     # p "Neither is outside!"
-    p "밖도 마찬가지야!"
+    p "밖이라고 달라지지 않아!"
 
 # game/script.rpy:899
 translate korean GameOverSilvia_dcfdd96c:
 
     # s "... Let me in. Hiding and denying entry for the arrest of a criminal is a crime."
-    s "... 들여보내줘. 범죄자 체포를 위한 입장을 숨기고 거부하는 건 범죄야."
+    s "... 문 열어. 범죄자 체포를 위한 입장을 숨기고 거부하는 건 범죄야."
 
 # game/script.rpy:902
 translate korean GameOverSilvia_2bb078ea:
@@ -2092,19 +2092,19 @@ translate korean GameOverSilvia_16d34b36:
 translate korean GameOverSilvia_1e8685a4:
 
     # n "W-Who is that?!"
-    n "저-저게 누구야?!"
+    n "저-저건 누구야?!"
 
 # game/script.rpy:923
 translate korean GameOverSilvia_383cd422:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 큰 도움이 될 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:924
 translate korean GameOverSilvia_46520f3f:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:926
 translate korean GameOverSilvia_2d96574b:
@@ -2122,13 +2122,13 @@ translate korean GameOverSilvia_222d3b5b:
 translate korean GameOverSilvia_5a4956ec:
 
     # b "Tch!!!"
-    b "쯧!!!"
+    b "쳇!!"
 
 # game/script.rpy:936
 translate korean GameOverSilvia_faaadfd1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭐 하는 거-"
 
 # game/script.rpy:943
 translate korean GameOverSilvia_d55a9bd3:
@@ -2140,13 +2140,13 @@ translate korean GameOverSilvia_d55a9bd3:
 translate korean GameOverSilvia_e0ae431b:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:945
 translate korean GameOverSilvia_3d503bd1:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:949
 translate korean GameOverSilvia_2e2587a2:
@@ -2158,25 +2158,25 @@ translate korean GameOverSilvia_2e2587a2:
 translate korean GameOverSilvia_24a30d57:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:957
 translate korean GameOverSilvia_cbd8afea:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:961
 translate korean GameOverSilvia_dd560d03:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높̴̣͍͔̻̼̉̀이̴̱̗́̈́높̷̘̙͔̪이̷͉̖̎́̊͑̌높̸̼͉̉이̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.높̶̘͓̄̔̐이̴͎̯̞높̸̲͕͈͆̏̈́̑͑이̴͗̓̒͗̈͜높이🆙높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:965
 translate korean GameOverSilvia_9a39e0a9:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:969
 translate korean GameOverSilvia_0973db23:
@@ -2188,7 +2188,7 @@ translate korean GameOverSilvia_0973db23:
 translate korean GameOverSilvia_275415d3:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:971
 translate korean GameOverSilvia_66e14473:
@@ -2224,19 +2224,19 @@ translate korean GameOverSilvia_a6584065:
 translate korean GameOverSilvia_4383fcd0:
 
     # b "[Name]! How could.."
-    b "[Name]! 어떻게.."
+    b "[Name]! 어떻게 당신이.."
 
 # game/script.rpy:982
 translate korean GameOverSilvia_383cd422_1:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:983
 translate korean GameOverSilvia_4017f36b:
 
     # "*Hugo looks at you a bit hurt.*"
-    "*휴고가 약간 상처받은 표정으로 널 본다.*"
+    "*휴고가 실망한 표정으로 당신을 쳐다본다.*"
 
 # game/script.rpy:984
 translate korean GameOverSilvia_df9f797e:
@@ -2254,13 +2254,13 @@ translate korean GameOverSilvia_d55a9bd3_1:
 translate korean GameOverSilvia_e0ae431b_1:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:989
 translate korean GameOverSilvia_46520f3f_1:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:992
 translate korean GameOverSilvia_2d96574b_1:
@@ -2272,7 +2272,7 @@ translate korean GameOverSilvia_2d96574b_1:
 translate korean GameOverSilvia_3d503bd1_1:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:997
 translate korean GameOverSilvia_2e2587a2_1:
@@ -2284,25 +2284,25 @@ translate korean GameOverSilvia_2e2587a2_1:
 translate korean GameOverSilvia_24a30d57_1:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1005
 translate korean GameOverSilvia_cbd8afea_1:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1009
 translate korean GameOverSilvia_dd560d03_1:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1013
 translate korean GameOverSilvia_9a39e0a9_1:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1017
 translate korean GameOverSilvia_0973db23_1:
@@ -2314,7 +2314,7 @@ translate korean GameOverSilvia_0973db23_1:
 translate korean GameOverSilvia_275415d3_1:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1019
 translate korean GameOverSilvia_66e14473_1:
@@ -2350,7 +2350,7 @@ translate korean GameOverSilvia_9097d677:
 translate korean GameOverSilvia_dcd71672_1:
 
     # s "Boo"
-    s "부!"
+    s "워!"
 
 # game/script.rpy:1042
 translate korean GameOverSilvia_16d34b36_2:
@@ -2362,19 +2362,19 @@ translate korean GameOverSilvia_16d34b36_2:
 translate korean GameOverSilvia_1e8685a4_1:
 
     # n "W-Who is that?!"
-    n "저-저게 누구야?!"
+    n "저-저건 누구야?!"
 
 # game/script.rpy:1044
 translate korean GameOverSilvia_383cd422_2:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:1045
 translate korean GameOverSilvia_46520f3f_2:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:1047
 translate korean GameOverSilvia_2d96574b_2:
@@ -2392,13 +2392,13 @@ translate korean GameOverSilvia_222d3b5b_1:
 translate korean GameOverSilvia_5a4956ec_1:
 
     # b "Tch!!!"
-    b "쯧!!!"
+    b "쳇!!!"
 
 # game/script.rpy:1057
 translate korean GameOverSilvia_faaadfd1_1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭐 하는 거-"
 
 # game/script.rpy:1064
 translate korean GameOverSilvia_d55a9bd3_2:
@@ -2410,13 +2410,13 @@ translate korean GameOverSilvia_d55a9bd3_2:
 translate korean GameOverSilvia_e0ae431b_2:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:1066
 translate korean GameOverSilvia_3d503bd1_2:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:1070
 translate korean GameOverSilvia_2e2587a2_2:
@@ -2428,25 +2428,25 @@ translate korean GameOverSilvia_2e2587a2_2:
 translate korean GameOverSilvia_24a30d57_2:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1078
 translate korean GameOverSilvia_cbd8afea_2:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1082
 translate korean GameOverSilvia_dd560d03_2:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1086
 translate korean GameOverSilvia_9a39e0a9_2:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1090
 translate korean GameOverSilvia_0973db23_2:
@@ -2458,7 +2458,7 @@ translate korean GameOverSilvia_0973db23_2:
 translate korean GameOverSilvia_275415d3_2:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1092
 translate korean GameOverSilvia_66e14473_2:
@@ -2494,19 +2494,19 @@ translate korean GameOverSilvia_a6584065_1:
 translate korean GameOverSilvia_4383fcd0_1:
 
     # b "[Name]! How could.."
-    b "[Name]! 어떻게.."
+    b "[Name]! 어떻게 당신이.."
 
 # game/script.rpy:1103
 translate korean GameOverSilvia_383cd422_3:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:1104
 translate korean GameOverSilvia_4017f36b_1:
 
     # "*Hugo looks at you a bit hurt.*"
-    "*휴고가 약간 상처받은 표정으로 널 본다.*"
+    "*휴고가 실망한 표정으로 당신을 쳐다본다.*"
 
 # game/script.rpy:1105
 translate korean GameOverSilvia_df9f797e_1:
@@ -2524,13 +2524,13 @@ translate korean GameOverSilvia_d55a9bd3_3:
 translate korean GameOverSilvia_e0ae431b_3:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:1110
 translate korean GameOverSilvia_46520f3f_3:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:1113
 translate korean GameOverSilvia_2d96574b_3:
@@ -2542,7 +2542,7 @@ translate korean GameOverSilvia_2d96574b_3:
 translate korean GameOverSilvia_3d503bd1_3:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:1118
 translate korean GameOverSilvia_2e2587a2_3:
@@ -2554,25 +2554,25 @@ translate korean GameOverSilvia_2e2587a2_3:
 translate korean GameOverSilvia_24a30d57_3:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1126
 translate korean GameOverSilvia_cbd8afea_3:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1130
 translate korean GameOverSilvia_dd560d03_3:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1134
 translate korean GameOverSilvia_9a39e0a9_3:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1138
 translate korean GameOverSilvia_0973db23_3:
@@ -2584,7 +2584,7 @@ translate korean GameOverSilvia_0973db23_3:
 translate korean GameOverSilvia_275415d3_3:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1140
 translate korean GameOverSilvia_66e14473_3:
@@ -2620,25 +2620,25 @@ translate korean GameOverSilvia_a6584065_2:
 translate korean GameOverSilvia_4383fcd0_2:
 
     # b "[Name]! How could.."
-    b "[Name]! 어떻게.."
+    b "[Name]! 어떻게 당신이.."
 
 # game/script.rpy:1161
 translate korean GameOverSilvia_1e8685a4_2:
 
     # n "W-Who is that?!"
-    n "저-저게 누구야?!"
+    n "저-저건 누구야?!"
 
 # game/script.rpy:1162
 translate korean GameOverSilvia_383cd422_4:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:1163
 translate korean GameOverSilvia_46520f3f_4:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:1165
 translate korean GameOverSilvia_2d96574b_4:
@@ -2656,13 +2656,13 @@ translate korean GameOverSilvia_222d3b5b_2:
 translate korean GameOverSilvia_5a4956ec_2:
 
     # b "Tch!!!"
-    b "쯧!!!"
+    b "쳇!!!"
 
 # game/script.rpy:1175
 translate korean GameOverSilvia_faaadfd1_2:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭐 하는 거-"
 
 # game/script.rpy:1182
 translate korean GameOverSilvia_d55a9bd3_4:
@@ -2674,13 +2674,13 @@ translate korean GameOverSilvia_d55a9bd3_4:
 translate korean GameOverSilvia_e0ae431b_4:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:1184
 translate korean GameOverSilvia_3d503bd1_4:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:1188
 translate korean GameOverSilvia_2e2587a2_4:
@@ -2692,25 +2692,25 @@ translate korean GameOverSilvia_2e2587a2_4:
 translate korean GameOverSilvia_24a30d57_4:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1196
 translate korean GameOverSilvia_cbd8afea_4:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1200
 translate korean GameOverSilvia_dd560d03_4:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1204
 translate korean GameOverSilvia_9a39e0a9_4:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1208
 translate korean GameOverSilvia_0973db23_4:
@@ -2722,7 +2722,7 @@ translate korean GameOverSilvia_0973db23_4:
 translate korean GameOverSilvia_275415d3_4:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1210
 translate korean GameOverSilvia_66e14473_4:
@@ -2746,19 +2746,19 @@ translate korean GameOverSilvia_a6584065_3:
 translate korean GameOverSilvia_4383fcd0_3:
 
     # b "[Name]! How could.."
-    b "[Name]! 어떻게.."
+    b "[Name]! 어떻게 당신이.."
 
 # game/script.rpy:1218
 translate korean GameOverSilvia_383cd422_5:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:1219
 translate korean GameOverSilvia_4017f36b_2:
 
     # "*Hugo looks at you a bit hurt.*"
-    "*휴고가 약간 상처받은 표정으로 널 본다.*"
+    "*휴고가 실망한 표정으로 당신을 쳐다본다.*"
 
 # game/script.rpy:1220
 translate korean GameOverSilvia_df9f797e_2:
@@ -2776,13 +2776,13 @@ translate korean GameOverSilvia_d55a9bd3_5:
 translate korean GameOverSilvia_e0ae431b_5:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:1225
 translate korean GameOverSilvia_46520f3f_5:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:1228
 translate korean GameOverSilvia_2d96574b_5:
@@ -2794,7 +2794,7 @@ translate korean GameOverSilvia_2d96574b_5:
 translate korean GameOverSilvia_3d503bd1_5:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:1233
 translate korean GameOverSilvia_2e2587a2_5:
@@ -2806,25 +2806,25 @@ translate korean GameOverSilvia_2e2587a2_5:
 translate korean GameOverSilvia_24a30d57_5:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1241
 translate korean GameOverSilvia_cbd8afea_5:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1245
 translate korean GameOverSilvia_dd560d03_5:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1249
 translate korean GameOverSilvia_9a39e0a9_5:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1253
 translate korean GameOverSilvia_0973db23_5:
@@ -2836,7 +2836,7 @@ translate korean GameOverSilvia_0973db23_5:
 translate korean GameOverSilvia_275415d3_5:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1255
 translate korean GameOverSilvia_66e14473_5:
@@ -2860,7 +2860,7 @@ translate korean GameOverSilvia_15fb7cf2_1:
 translate korean GameOverSilvia_66d70df0:
 
     # s "Hugo Eskutza? I am here for yoou~"
-    s "휴고 에스쿠차? 널 위해 여기 있어~"
+    s "휴고 에스쿠차? 널 위해 찾아왔어~"
 
 # game/script.rpy:1274
 translate korean GameOverSilvia_a6584065_4:
@@ -2872,25 +2872,25 @@ translate korean GameOverSilvia_a6584065_4:
 translate korean GameOverSilvia_4383fcd0_4:
 
     # b "[Name]! How could.."
-    b "[Name]! 어떻게.."
+    b "[Name]! 어떻게 당신이.."
 
 # game/script.rpy:1276
 translate korean GameOverSilvia_745a82ae:
 
     # n "What? W-Who is that?!"
-    n "뭐? 저-저게 누구야?!"
+    n "뭐? 저-저건 누구야?!"
 
 # game/script.rpy:1277
 translate korean GameOverSilvia_383cd422_6:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:1278
 translate korean GameOverSilvia_46520f3f_6:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:1280
 translate korean GameOverSilvia_2d96574b_6:
@@ -2908,13 +2908,13 @@ translate korean GameOverSilvia_222d3b5b_3:
 translate korean GameOverSilvia_5a4956ec_3:
 
     # b "Tch!!!"
-    b "쯧!!!"
+    b "쳇!!!"
 
 # game/script.rpy:1290
 translate korean GameOverSilvia_faaadfd1_3:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭐 하는 거-"
 
 # game/script.rpy:1297
 translate korean GameOverSilvia_d55a9bd3_6:
@@ -2926,13 +2926,13 @@ translate korean GameOverSilvia_d55a9bd3_6:
 translate korean GameOverSilvia_e0ae431b_6:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:1299
 translate korean GameOverSilvia_3d503bd1_6:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:1303
 translate korean GameOverSilvia_2e2587a2_6:
@@ -2944,25 +2944,25 @@ translate korean GameOverSilvia_2e2587a2_6:
 translate korean GameOverSilvia_24a30d57_6:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1311
 translate korean GameOverSilvia_cbd8afea_6:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1315
 translate korean GameOverSilvia_dd560d03_6:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1319
 translate korean GameOverSilvia_9a39e0a9_6:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1323
 translate korean GameOverSilvia_0973db23_6:
@@ -2974,7 +2974,7 @@ translate korean GameOverSilvia_0973db23_6:
 translate korean GameOverSilvia_275415d3_6:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1325
 translate korean GameOverSilvia_66e14473_6:
@@ -2998,19 +2998,19 @@ translate korean GameOverSilvia_a6584065_5:
 translate korean GameOverSilvia_4383fcd0_5:
 
     # b "[Name]! How could.."
-    b "[Name]! 어떻게.."
+    b "[Name]! 어떻게 당신이.."
 
 # game/script.rpy:1333
 translate korean GameOverSilvia_383cd422_7:
 
     # s "Thank you [Name] for your collaboration. It will be for great use."
-    s "협조해줘서 고마워 [Name]. 아주 유용할 거야."
+    s "협조해 줘서 고마워 [Name]. 아주 큰 도움이 됐어."
 
 # game/script.rpy:1334
 translate korean GameOverSilvia_4017f36b_3:
 
     # "*Hugo looks at you a bit hurt.*"
-    "*휴고가 약간 상처받은 표정으로 널 본다.*"
+    "*휴고가 실망한 표정으로 당신을 쳐다본다.*"
 
 # game/script.rpy:1335
 translate korean GameOverSilvia_df9f797e_3:
@@ -3028,13 +3028,13 @@ translate korean GameOverSilvia_d55a9bd3_7:
 translate korean GameOverSilvia_e0ae431b_7:
 
     # p "(Why isn't she going after him?!)"
-    p "(왜 그를 쫓아가지 않는 거야?!)"
+    p "(왜 그를 쫓아가지 않는 거지?!)"
 
 # game/script.rpy:1340
 translate korean GameOverSilvia_46520f3f_7:
 
     # s "So happy we got to end up like this..."
-    s "이렇게 끝나서 정말 기뻐..."
+    s "이렇게 끝나게 돼서 정말 기뻐..."
 
 # game/script.rpy:1343
 translate korean GameOverSilvia_2d96574b_7:
@@ -3046,7 +3046,7 @@ translate korean GameOverSilvia_2d96574b_7:
 translate korean GameOverSilvia_3d503bd1_7:
 
     # s "There really is no other way to go but high [username]"
-    s "높이 올라가는 것 외엔 다른 방법이 없어 [username]"
+    s "높이 올라가는 것 외에는, 더 이상 다른 방법은 없어 [username]"
 
 # game/script.rpy:1348
 translate korean GameOverSilvia_2e2587a2_7:
@@ -3058,25 +3058,25 @@ translate korean GameOverSilvia_2e2587a2_7:
 translate korean GameOverSilvia_24a30d57_7:
 
     # s "HIGH"
-    s "높이"
+    s "더 높이"
 
 # game/script.rpy:1356
 translate korean GameOverSilvia_cbd8afea_7:
 
     # s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
-    s "높̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝이̸̗̤͚̩̰̓̀̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
+    s "H̸̢̨̱̝̳̪̥͔̱͕̩͉̫͇͇̐̈̄͝͝높Ḯ̸̗̤͚̩̰G̶̨͓̬̦̻̠͍̥̓이H̶̛̘̫͍̗̼̝͕̤̟̆͗͂̀͌̐̅̒̄̿̈́̂̓͒͘"
 
 # game/script.rpy:1360
 translate korean GameOverSilvia_dd560d03_7:
 
     # s "{color=#ff0202} HIGH.HIGH.🆙..."
-    s "{color=#ff0202} 높이.높이.🆙높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이높이{/color}"
+    s "{color=#ff0202} 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞ 높이.높이.🆙�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠높이.높이.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠ 🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜̍̅̕͠IGH.높이.높이.높이.H̶̘͓̄̔̐Ỉ̴͎̯̞G̸̲͕͈͆̏̈́̑͑H̴͗̓̒͗̈͜높이🆙�̴̣͍͔̻̼̉̀�̴̣͍͔̻̼̉̀Ḧ̴̱̗́̈́Ì̷̘̙͔̪G̷͉̖̎́̊͑̌H̸̼͉̉.̴̛̲͕̰̜͉̍̅̕͠H̶̘͓̄̔̐Ỉ̴͎̯̞{/color}"
 
 # game/script.rpy:1364
 translate korean GameOverSilvia_9a39e0a9_7:
 
     # "*You start to feel dizzy*"
-    "*어지러워지기 시작한다*"
+    "*머리가 점점 어지러워진다*"
 
 # game/script.rpy:1368
 translate korean GameOverSilvia_0973db23_7:
@@ -3088,7 +3088,7 @@ translate korean GameOverSilvia_0973db23_7:
 translate korean GameOverSilvia_275415d3_7:
 
     # s "Don't be scared. I am here."
-    s "무서워하지 마. 내가 여기 있어."
+    s "무서워하지 마. 내가 여기 있잖아."
 
 # game/script.rpy:1370
 translate korean GameOverSilvia_66e14473_7:
@@ -3146,15 +3146,15 @@ translate korean strings:
 
     # game/script.rpy:900
     old "No! I am not letting you in!"
-    new "안 돼! 안 들여보낼 거야!"
+    new "안 돼! 들여보내 줄 생각 없어!"
 
     # game/script.rpy:900
     old "You're right. Come in."
-    new "맞아. 들어와."
+    new "당신이 맞아요. 들어오세요."
 
     # game/script.rpy:905
     old "..Who.. is there?"
-    new "..누구.. 거기 있어?"
+    new "..거기.. 누구 있어요?"
 
     # game/script.rpy:905
     old ". . ."

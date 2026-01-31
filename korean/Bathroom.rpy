@@ -4,7 +4,7 @@
 translate korean GrabATowel_c63385f4:
 
     # " Yes, that'll do for Hugo"
-    "이 정도면 휴고씨에게 충분할거같아"
+    "이 정도면 휴고 씨에게 충분할거같아"
 
 # game/Bathroom.rpy:50
 translate korean GrabATowel_85134f94:

@@ -10,7 +10,7 @@ translate korean SomeoneCalling_0ae9bcd0:
 translate korean SomeoneCalling_be3587a9:
 
     # p " Someone's calling. I better get it, just in case Onna needs something."
-    p "누군가에게서 전화가 왔다. 혹시 온나씨가 뭔가 필요할지도 모르니까 받아야겠어."
+    p "누군가에게서 전화가 왔다. 혹시 온나 씨가 뭔가 필요한 게 있을지도 모르니까 받아야겠어."
 
 # game/Window.rpy:96
 translate korean SomeoneCalling_c8ea8a4a:
@@ -28,7 +28,7 @@ translate korean SomeoneCalling_164d3141:
 translate korean ChatWindow_ff461043:
 
     # p "Right, Onna is still trapped inside her bathroom. I have to call the emergency service."
-    p "맞아, 온나씨가 아직 화장실에 갇혀 있어. 구조대에 전화해야겠어."
+    p "맞아, 온나 씨가 아직 화장실에 갇혀 있어. 구조대에 전화해야겠어."
 
 # game/Window.rpy:112
 translate korean ChatWindow_948d8e22:
@@ -100,19 +100,19 @@ translate korean ChatWindow_4f7079f3_1:
 translate korean ChatWindow_6ba09531:
 
     # w "Hi, [Name]."
-    w "안녕하세요, [Name]씨."
+    w "안녕하세요, [Name] 씨."
 
 # game/Window.rpy:136
 translate korean ChatWindow_3f4cc953:
 
     # p "Oh hey Onna, what's up? Do you need anything?"
-    p "아, 안녕하세요 온나씨, 무슨 일이세요?"
+    p "아, 안녕하세요 온나 씨, 무슨 일이세요?"
 
 # game/Window.rpy:137
 translate korean ChatWindow_0faadb5f:
 
     # w "There's something under the floor and it told me something sweet."
-    w "바닥 아래에 뭔가 있어요, 그리고 그게 저한테 달콤한 말을 해줬어요."
+    w "바닥 아래에 뭔가 있어요, 그리고 그게 저에게 달콤한 말을 해줬어요."
 
 # game/Window.rpy:138
 translate korean ChatWindow_38b61d44:
@@ -136,25 +136,25 @@ translate korean ChatWindow_7a0bd8ae:
 translate korean ChatWindow_c8c5702e:
 
     # p "Wha- Onna- What are you talking about?"
-    p "뭐- 온나씨- 무슨 말씀이세요?"
+    p "저- 온나 씨? 무슨 말씀이세요?"
 
 # game/Window.rpy:142
 translate korean ChatWindow_bd86bbe6:
 
     # w "It's not a trick question. Don't spiral. Just answer. You're always so good at answering."
-    w "함정 수사 하려는게 아니에요. 당황하지 마세요. 그냥 대답해 주세요. 당신은 항상 대답을 잘하잖아요."
+    w "함정 수사 같은 건 아니에요. 당황할 필요 없어요. 그냥 대답해 주세요. 당신은 항상 대답을 잘 해주시잖아요."
 
 # game/Window.rpy:143
 translate korean ChatWindow_c3746aea:
 
     # w "You help me. You always help me. It means something. I logged it. I catalogued your gaze."
-    w "당신은 저를 도와줘요. 항상 도와줘요. 그건 뭔가 의미가 있어요. 전 그걸 기록했어요. 당신의 시선을 분류해뒀어요."
+    w "당신은 저를 도와줘요. 항상 도와줬어요. 그건 뭔가 의미가 있어요. 전 그걸 기록했고, 당신의 시선을 하나하나 분류해 봤어요."
 
 # game/Window.rpy:144
 translate korean ChatWindow_f0e2e39a:
 
     # w "Do you help me because you think I'm beautiful?"
-    w "제가 아름답다고 생각해서 저를 도와주는거죠?"
+    w "제가 아름답다고 생각해서 저를 도와주는 거죠?"
 
 # game/Window.rpy:145
 translate korean ChatWindow_842ff0b4:
@@ -166,7 +166,7 @@ translate korean ChatWindow_842ff0b4:
 translate korean ChatWindow_520a2f67:
 
     # w "Answer the question [Name]. Do{w=0.8} you{w=0.8} think{w=0.8} I'm{w=0.8} {color=#ff0202}beautifull.{/color}?"
-    w "질문에 대답해 주세요, [Name]싸. 제가{w=0.8} {color=#ff0202}아름답다고{/color}{w=0.8} 생각{w=0.8}하세요?"
+    w "질문에 대답해 주세요, [Name] 씨. 제가{w=0.8} {color=#ff0202}아름답다고{/color}{w=0.8} 생각{w=0.8}하세요?"
 
 # game/Window.rpy:150
 translate korean ChatWindow_ed07b2da:
@@ -220,13 +220,13 @@ translate korean ChatWindow_e06431b8:
 translate korean ChatWindow_5971034f:
 
     # w "I- Euh... I wasn't...*Sniff* Eh- euugh- *sniff, sniff*"
-    w "나- 어... 난 아니...*훌쩍* 에- 으으- *훌쩍, 훌쩍*"
+    w "나- 어... 나는 그저...*훌쩍* 에- 으으- *훌쩍, 훌쩍*"
 
 # game/Window.rpy:160
 translate korean ChatWindow_5c2172c1:
 
     # p "Onna, are you crying?"
-    p "온나씨, 울고 있는 거에요?"
+    p "온나 씨, 울고 있는 거예요?"
 
 # game/Window.rpy:161
 translate korean ChatWindow_d669786d:
@@ -238,19 +238,19 @@ translate korean ChatWindow_d669786d:
 translate korean ChatWindow_6059f816:
 
     # w "But that's okay. That's okay. You're allowed to lie. It's part of the journey."
-    w "하지만 괜찮아. 괜찮고말고. 거짓말해도 돼. 그건 여정의 일부니까."
+    w "하지만 괜찮아. 괜찮고말고. 거짓말해도 돼. 그건 그저 여정의 일부니까."
 
 # game/Window.rpy:163
 translate korean ChatWindow_c007417b:
 
     # w "It told me you'd say that. It lied to me too, but only to protect me."
-    w "그게 네가 그렇게 말할 거라고 했어. 그것도 나한테 거짓말했어, 하지만 나를 지켜주기 위해서였어."
+    w "그게 네가 그렇게 말할 거라고 했어. 그것도 나한테 거짓말했지만, 하지만 나를 보호해주기 위해서였어."
 
 # game/Window.rpy:164
 translate korean ChatWindow_59f3a948:
 
     # w "You're protecting me, right?"
-    w "넌 나를 지켜주고 있는 거지?"
+    w "너도 나를 보호해 주려는 거지? 그렇지?"
 
 # game/Window.rpy:165
 translate korean ChatWindow_2eecdde9:
@@ -262,7 +262,7 @@ translate korean ChatWindow_2eecdde9:
 translate korean ChatWindow_8ddb28d1:
 
     # w "Your face just flickered. Did you feel it? Like a skip in the tape. Or was it time itself? Maybe someone reloaded us... Anyway."
-    w "네 얼굴이 방금 깜빡였어. 느꼈어? 테이프가 건너뛰는 것처럼. 아니면 시간 자체가? 누군가 우리를 다시 로드했나... 어쨌든."
+    w "네 얼굴이 방금 깜빡였어. 느꼈어? 마치 영상을 건너뛴 것처럼. 아니면 시간 자체가? 누군가 우리를 다시 로드했나... 어쨌든."
 
 # game/Window.rpy:167
 translate korean ChatWindow_bfc84d74:
@@ -280,7 +280,7 @@ translate korean ChatWindow_981e1a89:
 translate korean ChatWindow_83f8fcac:
 
     # w "See you soon, [Name]. Don't lock the door. I remember the shape of your keyhole."
-    w "곧 보자, [Name]. 문 잠그지 마. 난 네 열쇠구멍이 어떻게 생겼는지 기억하고 있어."
+    w "곧 보자, [Name]. 문 잠그지 마. 난 네 열쇠 구멍이 어떻게 생겼는지 기억하니까."
 
 # game/Window.rpy:174
 translate korean ChatWindow_e35bee73:
@@ -292,19 +292,19 @@ translate korean ChatWindow_e35bee73:
 translate korean ChatWindow_8645069f:
 
     # w "Hey! [Name]? Can you talk?"
-    w "안녕하세요! [Name]씨? 통화 괞찮으세요?"
+    w "안녕하세요! [Name] 씨? 통화 괜찮으세요?"
 
 # game/Window.rpy:177
 translate korean ChatWindow_4fd091e7:
 
     # p " Oh, hi Onna! are you okay?"
-    p "아, 안녕하세요 온나씨! 괜찮으세요?"
+    p "아, 안녕하세요 온나 씨! 괜찮으세요?"
 
 # game/Window.rpy:178
 translate korean ChatWindow_8fa3f2f3:
 
     # "(She's Onna, my neighbour. She moved in the house next to mine just a month ago.)"
-    "(내 이웃 온나씨다. 한 달 전에 내 옆집으로 이사왔다.)"
+    "(내 이웃 온나 씨다. 한 달 전에 내 옆집으로 이사 왔다.)"
 
 # game/Window.rpy:179
 translate korean ChatWindow_3fa29c65:
@@ -322,7 +322,7 @@ translate korean ChatWindow_7c76d4d5:
 translate korean ChatWindow_4c1df8da:
 
     # p " Is this your first spore storm?"
-    p "포자 폭풍은 이번에 처음 보시는건가요?"
+    p "포자 폭풍은 이번에 처음 보시는 건가요?"
 
 # game/Window.rpy:182
 translate korean ChatWindow_dea8b85d:
@@ -334,7 +334,7 @@ translate korean ChatWindow_dea8b85d:
 translate korean ChatWindow_d5c5bd9e:
 
     # p " No worries, they usually only last for a couple of hours. And they're not that dangerous if..."
-    p "걱정 마세요, 보통 몇 시간정도면 끝나요. 그리고 만약..."
+    p "걱정 마세요, 보통 몇 시간 정도면 끝나요. 그리고 만약..."
 
 # game/Window.rpy:184
 translate korean ChatWindow_facf71e0:
@@ -370,7 +370,7 @@ translate korean ChatWindow_c8ea8a4a:
 translate korean ChatWindow_b8054587:
 
     # w "...[Name]?"
-    w "...[Name]씨?"
+    w "...[Name] 씨?"
 
 # game/Window.rpy:190
 translate korean ChatWindow_315c68c3:
@@ -424,25 +424,25 @@ translate korean ChatWindow_68966792:
 translate korean ChatWindow_4b3680de:
 
     # p "(But there are new rules. This sporestorm is different than the previous ones.)"
-    p "(다만 새로운 규칙이 생겼었지. 이번 포자 폭풍은 이전 것들과 달라.)"
+    p "(다만 새로운 권고 사항이 추가됐었지. 이번 포자 폭풍은 이전과는 달라.)"
 
 # game/Window.rpy:199
 translate korean ChatWindow_b4bd1504:
 
     # p "The spores travel through air, so lock all your doors and windows. And if you have doubts about anything, just call me alright?"
-    p "포자는 공기중으로 전파되니까, 모든 문과 창문을 잠그세요. 그리고 뭔가 질문이 있으면 언제든 전화하세요, 알겠죠?"
+    p "포자는 공기 중으로 전파되니까, 모든 문과 창문을 잠그세요. 그리고 뭔가 질문이 있으면 언제든 전화하세요, 알겠죠?"
 
 # game/Window.rpy:202
 translate korean ChatWindow_45e71b2b:
 
     # w "...Okay. Thanks. That makes me feel a bit better."
-    w "...알겠어요. 고마워요. 조금 안심이 되네요."
+    w "...고마워요. 조금 안심이 되네요."
 
 # game/Window.rpy:203
 translate korean ChatWindow_bf8913cb:
 
     # p " Glad to hear that! Just relax and secure your windows."
-    p "다행이에요! 침착함을 유지하시고, 창문은 꼭 잠가두세요."
+    p "도움이 됐다면 다행이에요! 침착함을 유지하시고, 창문은 꼭 잠가두세요."
 
 # game/Window.rpy:204
 translate korean ChatWindow_18aa31ef:
@@ -478,7 +478,7 @@ translate korean ChatWindow_c8ea8a4a_1:
 translate korean ChatWindow_71a639e4:
 
     # p "I hope she's okay. I better keep an eye on her, or an ear, better said."
-    p "그녀가 괜찮았으면 좋겠는데. 계속 지켜봐야겠어, 아니 귀를 열어두는 게 맞겠지."
+    p "그녀에게 아무 일 없어야 할 텐데. 계속 지켜봐야겠어, 아니 귀를 열어두는 게 맞겠지."
 
 # game/Window.rpy:213
 translate korean ChatWindow_e35bee73_1:
@@ -490,13 +490,13 @@ translate korean ChatWindow_e35bee73_1:
 translate korean ChatWindow_dab6984d:
 
     # w "Hi [Name]. It's me again."
-    w "안녕하세요 [Name]씨. 저예요."
+    w "안녕하세요 [Name] 씨. 저예요."
 
 # game/Window.rpy:216
 translate korean ChatWindow_9d3ce297:
 
     # p "Hi, Onna. You need something?"
-    p "안녕하세요, 온나씨. 뭔가 필요하신가요?"
+    p "안녕하세요, 온나 씨. 뭔가 필요하신가요?"
 
 # game/Window.rpy:217
 translate korean ChatWindow_4009cf92:
@@ -508,19 +508,19 @@ translate korean ChatWindow_4009cf92:
 translate korean ChatWindow_e08a3fc4:
 
     # p "(That's kind of a silly question, isn't it?)"
-    p "(좀 바보 같은 질문 같은데...)"
+    p "(이건... 너무 당연한 질문 같은데...)"
 
 # game/Window.rpy:219
 translate korean ChatWindow_e73d6d3c:
 
     # p " Well it usually is, I'm too cheap myself to buy bottled water so I drink it all the time."
-    p "보통은 그래요, 저도 생수 사기 아까워서 맨날 수돗물 마시거든요."
+    p "보통은 그렇죠, 저도 생수 사기 아까워서 맨날 수돗물 마시거든요."
 
 # game/Window.rpy:220
 translate korean ChatWindow_7163832e:
 
     # w "No, I mean... is it infected by the spores? They travel through air so I figured they could be present in tap water if it's collected from some nearby source."
-    w "아뇨, 제 말은... 포자말이에요. 포자가 공기로 이동하니까, 근처에서 물을 끌어오면 수돗물에도 있을 수 있잖아요."
+    w "아뇨, 제 말은... 포자 말이에요. 포자는 공기중으로 전파되니까, 상수원이 근처에 있다면 수돗물도 감염됐을 수도 있잖아요."
 
 # game/Window.rpy:221
 translate korean ChatWindow_84909904:
@@ -532,13 +532,13 @@ translate korean ChatWindow_84909904:
 translate korean ChatWindow_c76c4642:
 
     # p "(Well, now I feel bad. That's actually a good question)"
-    p "(이런, 미안해지네. 중요한 질문이었는데)"
+    p "(아... 이런. 꽤 중요한 질문이었는데)"
 
 # game/Window.rpy:229
 translate korean ChatWindow_95948d41:
 
     # w "Oh, cool!"
-    w "오, 좋네요!"
+    w "아, 다행이네요!"
 
 # game/Window.rpy:230
 translate korean ChatWindow_d33430b4:
@@ -556,7 +556,7 @@ translate korean ChatWindow_13279858:
 translate korean ChatWindow_6a4d83c9:
 
     # w "Hm? Is everything okay [Name]?"
-    w "응? 괜찮으세요, [Name]씨?"
+    w "응? 괜찮으세요, [Name] 씨?"
 
 # game/Window.rpy:233
 translate korean ChatWindow_ae65b80c:
@@ -574,13 +574,13 @@ translate korean ChatWindow_29944c8b:
 translate korean ChatWindow_8dcd0c37:
 
     # p "(Luckily that she can't see me blush)"
-    p "(다행히, 이 거리라면 내가 얼굴 빨개진건 안보이겠지)"
+    p "(다행히, 이 정도 거리라면 내 얼굴이 빨개진 건 눈치 못채겠지)"
 
 # game/Window.rpy:238
 translate korean ChatWindow_1ec9afc4:
 
     # w "A filter? I don't think I have one here. I'll go look to see if I find one. Just a moment ago a guy came to my door to sell me one of those."
-    w "필터요? 여기 없는 것 같은데요. 가서 찾아볼게요. 방금 누가 문 앞에 와서 그런 거 팔려고 했거든요."
+    w "필터요? 저한테는 없는 거 같은데, 한번 찾아볼게요. 조금 전에 누가 문 앞에 와서 그런 걸 팔려고 했거든요."
 
 # game/Window.rpy:242
 translate korean ChatWindow_40b585e6:
@@ -598,7 +598,7 @@ translate korean ChatWindow_79a32a32:
 translate korean ChatWindow_65b30695:
 
     # w "Okay, thank you [Name] for your help! I'll make sure to call you if I have more doubts."
-    w "알겠어요, 도와줘서 고마워요 [Name]씨! 궁금한 게 더 있으면 전화할게요."
+    w "알겠어요, 도와줘서 고마워요 [Name] 씨! 궁금한 게 더 있으면 전화할게요."
 
 # game/Window.rpy:252
 translate korean ChatWindow_5272c251:
@@ -628,7 +628,7 @@ translate korean ChatWindow_e35bee73_2:
 translate korean ChatWindow_f257cb44:
 
     # w "Hi [Name]. Sorry to bother you again."
-    w "안녕하세요 [Name]씨. 또 귀찮게 해서 미안해요."
+    w "안녕하세요 [Name] 씨. 또 귀찮게 해서 미안해요."
 
 # game/Window.rpy:263
 translate korean ChatWindow_0faf8f39:
@@ -640,7 +640,7 @@ translate korean ChatWindow_0faf8f39:
 translate korean ChatWindow_e98a194f:
 
     # w "Hahaha yes, I'm starting to talk to myself more than I normally do. But I guess that considering the situation that's barely a problem."
-    w "하하하 네, 평소보다 혼잣말을 더 많이 하게 되네요. 그래도 지금 상황을 생각하면 그건 별 문제도 아니죠."
+    w "하하하 네, 평소보다 혼잣말을 더 많이 하게 되네요. 그래도 지금 상황을 생각하면 그건 별문제도 아니죠."
 
 # game/Window.rpy:265
 translate korean ChatWindow_01c9cd23:
@@ -652,13 +652,13 @@ translate korean ChatWindow_01c9cd23:
 translate korean ChatWindow_3fe948d5:
 
     # p " So tell me, do you have any questions?"
-    p "그나저나, 궁금하신거 있으세요?"
+    p "그나저나, 궁금하신 거라도 있으세요?"
 
 # game/Window.rpy:269
 translate korean ChatWindow_e89d7881:
 
     # w "Yes. I'm freezing and I still haven't received my winter clothes from the moving company."
-    w "네. 너무 추운데 아직 이사 업체에서 겨울옷을 안 보내줬어요."
+    w "네. 너무 추운데 아직 이사업체에서 겨울옷을 안 보내줬어요."
 
 # game/Window.rpy:270
 translate korean ChatWindow_b6b0eca0:
@@ -700,7 +700,7 @@ translate korean ChatWindow_33837a05:
 translate korean ChatWindow_74e38a51:
 
     # w "Then what should I do?."
-    w "그럼 어떻게 해야 해요?"
+    w "그러면 어떻게 해야 해요?"
 
 # game/Window.rpy:286
 translate korean ChatWindow_b82daa58:
@@ -718,7 +718,7 @@ translate korean ChatWindow_52f491a6:
 translate korean ChatWindow_e247ed36:
 
     # w "At least not alone."
-    w "적어도 혼자서하는 '운동' 은요."
+    w "적어도 혼자서 하는 '운동' 은요."
 
 # game/Window.rpy:289
 translate korean ChatWindow_f67a3ebd:
@@ -772,7 +772,7 @@ translate korean ChatWindow_e35bee73_3:
 translate korean ChatWindow_1e6687f4:
 
     # w "Oh my god [Name] please help me, I'm freaking out."
-    w "맙소사 [Name]씨 제발 도와주세요, 지금 무서워 죽기 직전이에요."
+    w "맙소사 [Name] 씨 제발 도와주세요, 지금 무서워 죽기 직전이에요."
 
 # game/Window.rpy:315
 translate korean ChatWindow_9157cddf:
@@ -808,7 +808,7 @@ translate korean ChatWindow_c04a107d:
 translate korean ChatWindow_1844100d:
 
     # p " Now, Onna, what happened?"
-    p "자, 온나씨, 무슨 일이에요?"
+    p "자, 온나 씨, 무슨 일이에요?"
 
 # game/Window.rpy:321
 translate korean ChatWindow_27324890:
@@ -844,13 +844,13 @@ translate korean ChatWindow_0814c691:
 translate korean ChatWindow_48d90598:
 
     # p " Wait, Onna, what are you talking about?"
-    p "잠시만요, 온나씨, 무슨 소리에요?"
+    p "잠시만요, 온나 씨, 무슨 소리에요?"
 
 # game/Window.rpy:327
 translate korean ChatWindow_3fe58c39:
 
     # w "An infected, a zombie, whatever you want to call them. It was trying to break in. I don't know what to do. Please [Name] help me."
-    w "감염자? 좀비? 뭐가 되었든 제 집에 침입하려고 해요. 어떻게 해야 할지 모르겠어요. 제발 도와주세요 [Name]씨."
+    w "감염자? 좀비? 뭐가 되었든 제 집에 침입하려고 해요. 어떻게 해야 할지 모르겠어요. 제발 도와주세요 [Name] 씨."
 
 # game/Window.rpy:328
 translate korean ChatWindow_7f6db847:
@@ -886,13 +886,13 @@ translate korean ChatWindow_93ecc27a:
 translate korean ChatWindow_b8df04e6:
 
     # p " Wait, Onna, no-"
-    p "잠깐요, 온나씨, 아니-"
+    p "잠깐요, 온나 씨, 아니-"
 
 # game/Window.rpy:346
 translate korean ChatWindow_1fe24866:
 
     # w "Okay. I will do that. Please remember to call for help. I won't be able to answer the phone anymore so in case I don't make it out from this, thank you, for everything. Let's go get a drink, or maybe we can go to see a movie."
-    w "알겠어요. 그렇게 할게요. 도움을 부르는 거 잊지 말아주세요. 이제 전화는 못 받을 테니까, 혹시라도 제가 어떻게 될까봐 미리 말씀드리는데, 정말 고마워요, 모든 것에. 나중에 술 마시러 가요, 아니면 영화도 괞찮고요."
+    w "알겠어요. 그렇게 할게요. 도움을 부르는 거 잊지 말아주세요. 이제 전화는 못 받을 테니까, 혹시라도 제가 어떻게 될까봐 미리 말씀드리는데, 정말 고마워요, 정말로. 나중에 술 마시러 가요, 아니면 영화도 괜찮고요."
 
 # game/Window.rpy:347
 translate korean ChatWindow_5bfae2b8:
@@ -910,13 +910,13 @@ translate korean ChatWindow_cf7e0527:
 translate korean ChatWindow_a203d38b:
 
     # "*There's fear in her voice, but you also perceive a bit of calmness*"
-    "*그녀의 목소리에 두려움이 있지만, 약간의 침착함도 느껴진다*"
+    "*아직 그녀의 목소리에서 두려움이 느껴지지만, 조금은 침착해진 것 같다*"
 
 # game/Window.rpy:352
 translate korean ChatWindow_120a5a7e:
 
     # p "Hurry up and lock yourself, talk to you soon."
-    p "어서 화장실로 가서 문을 잠그세요, 조금 있다가 다시 봐요."
+    p "어서 화장실로 가서 문부터 잠그세요, 조금 있다가 다시 봐요."
 
 # game/Window.rpy:355
 translate korean ChatWindow_0626f4be:
@@ -946,13 +946,13 @@ translate korean ChatWindow_c89530d3:
 translate korean ChatWindow_64e364ef:
 
     # w "Hello? [Name]? Is everything alright?"
-    w "여보세요? [Name]씨? 무슨 일 있으세요?"
+    w "여보세요? [Name] 씨? 무슨 일 있으세요?"
 
 # game/Window.rpy:373
 translate korean ChatWindow_5fc09c65:
 
     # p "Hey Onna, I need to ask you something. Did you call for anyone today to fix your TV antenna?"
-    p "온나씨, 물어볼 게 있어서요. 오늘 TV 안테나 고치려고 누구 부른 적 있으세요?"
+    p "온나 씨, 물어볼 게 있어서요. 오늘 TV 안테나 고치려고 누구 부른 적 있으세요?"
 
 # game/Window.rpy:374
 translate korean ChatWindow_ec752e73:
@@ -976,7 +976,7 @@ translate korean ChatWindow_be0710ad:
 translate korean ChatWindow_9dc6a26c:
 
     # w "Did something happen to your TV, [Name]?"
-    w "[Name]씨 TV에 문제라도 생겼어요?"
+    w "[Name] 씨 TV에 문제라도 생겼어요?"
 
 # game/Window.rpy:378
 translate korean ChatWindow_87aa9217:
@@ -988,7 +988,7 @@ translate korean ChatWindow_87aa9217:
 translate korean ChatWindow_60df3222:
 
     # w "Sure! Thank you, [Name]. Bye!"
-    w "물론이죠! 고마워요 [Name]씨. 안녕히 계세요!"
+    w "물론이죠! 고마워요 [Name] 씨. 안녕히 계세요!"
 
 # game/Window.rpy:384
 translate korean ChatWindow_b37adfa3:
@@ -1008,19 +1008,19 @@ translate korean strings:
 
     # game/Window.rpy:223
     old "Yes, tap water is fine to drink. Spores are not water soluble and besides, the water system is isolated from the outside world."
-    new "네, 수돗물은 마셔도 돼요. 포자는 물에 녹지 않고, 수도 시스템은 외부와 분리되어 있어요."
+    new "네, 수돗물은 마셔도 괜찮아요. 포자는 물에 녹지 않고, 수도 시스템도 외부와 분리되어 있어요."
 
     # game/Window.rpy:223
     old "No, it's not. You should drink bottled water or filter tap water with a filter or something, like activated charcoal."
-    new "아니요, 안 돼요. 생수를 마시거나 활성탄 같은 필터로 수돗물을 걸러서 마셔야 해요."
+    new "아니요, 마셔서는 안 돼요. 생수를 마시거나 활성탄 같은 필터로 수돗물을 정화시켜야 해요."
 
     # game/Window.rpy:223
     old "Yes, but you should air it first to make sure all the possible spores fly off of it. Try letting it rest besides an open window."
-    new "네, 하지만 먼저 환기시켜서 포자가 다 날아가게 해야 해요. 열린 창문 옆에 두고 좀 기다려 보세요."
+    new "네, 하지만 마시기 전에 포자가 전부 날아갈 수 있도록 환기시켜야 해요. 창문을 열고, 그 옆에 두세요."
 
     # game/Window.rpy:223
     old "No, you should wait and not drink anything until this is resolved. Better safe than sorry right?."
-    new "아니요, 이 상황이 해결될 때까지 기다리면서 아무것도 마시지 마세요. 안전이 최고잖아요, 그렇죠?"
+    new "아니요, 폭풍이 끝날 때까지 아무것도 마시지 마세요. 안전이 최고잖아요, 그렇죠?"
 
     # game/Window.rpy:275
     old "Yes, the heat will kill the spores."

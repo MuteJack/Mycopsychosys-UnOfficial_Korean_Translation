@@ -10,13 +10,13 @@ translate korean Intro_de53d5e7:
 translate korean Intro_ebb8d150:
 
     # p "What? That has to be rigged, how can a lime be better than an orange?"
-    p "뭐? 조작된 거 아냐? 라임이 어떻게 오렌지보다 나을 수가 있어?"
+    p "뭐? 승부조작 아니야? 어떻게 라임이 오렌지보다 나을 수가 있어?"
 
 # game/intro.rpy:47
 translate korean Intro_36011211:
 
     # t "Now, on other news, reports indicate an increase in burglaries in our local neightborhood."
-    t "다른 소식입니다. 보도에 따르면 해당 지역에서 절도 사건이 증가하고 있습니다."
+    t "이어서 다음 소식입니다. 보도에 따르면 해당 지역에서 절도 사건이 증가하고 있습니다."
 
 # game/intro.rpy:49
 translate korean Intro_9619a40c:
@@ -70,7 +70,7 @@ translate korean Intro_54c9cca7:
 translate korean Intro_fa045fd8:
 
     # p "Sensationalism is getting out of hand. This can't be true, right?"
-    p "너무 과장된거 같아. 이게 사실일 리가 없잖아, 그렇지?"
+    p "너무 과장된 거 같아. 이게 사실일 리가 없잖아, 그렇지?"
 
 # game/intro.rpy:81
 translate korean Intro_baba09e1:
@@ -118,7 +118,7 @@ translate korean Skip_54c9cca7:
 translate korean Skip_fa045fd8:
 
     # p "Sensationalism is getting out of hand. This can't be true, right?"
-    p "너무 과장된거 같아. 이게 사실일 리가 없잖아, 그렇지?"
+    p "너무 과장된 거 같아. 이게 사실일 리가 없잖아, 그렇지?"
 
 # game/intro.rpy:98
 translate korean Skip_baba09e1:

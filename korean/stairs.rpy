@@ -40,7 +40,7 @@ translate korean Stairs_bf40e64d_1:
 translate korean Stairs_5852811c:
 
     # "β€∆ц†įƒµll"
-    "αҏε∆дøㄷɯ̷"
+    "αҏε∆дøɯ̷"
 
 # game/stairs.rpy:55
 translate korean Stairs_4ac37c37:

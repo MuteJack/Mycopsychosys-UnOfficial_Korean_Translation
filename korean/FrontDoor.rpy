@@ -118,7 +118,7 @@ translate korean AnswerFrontDoor_4bc035da:
 translate korean AnswerFrontDoor_021ca8be:
 
     # p " You're outside, the web page said that you shouldn't be outside without a proper face mask if there's a sporestorm."
-    p "당신은 밖에 계시잖아요, 웹페이지에서 포자 폭풍이 있을 때는 적절한 마스크 없이 밖에 나가면 안 된다고 했어요."
+    p "당신은 밖에 계시잖아요, 웹페이지의 권고사항에 따르면 포자 폭풍이 왔을 때는 전용 마스크 없이는 밖에 나가서는 안 된다고 했어요."
 
 # game/FrontDoor.rpy:133
 translate korean AnswerFrontDoor_561cecce:
@@ -142,7 +142,7 @@ translate korean AnswerFrontDoor_f4ee0f28:
 translate korean AnswerFrontDoor_510cad42:
 
     # p " Wait, it won't matter, you may already be infe-"
-    p "잠깐요, 그건 소용없어요, 이미 감염됐을 수도 있-"
+    p "잠깐만요, 그게 중요한게 아니잖아요. 이미 감염됐을 수도 있-"
 
 # game/FrontDoor.rpy:138
 translate korean AnswerFrontDoor_c8ea8a4a:
@@ -160,7 +160,7 @@ translate korean AnswerFrontDoor_3e0384e6:
 translate korean AnswerFrontDoor_fffc04ab:
 
     # p " I hope He doesn't come back"
-    p "다시 안 왔으면 좋겠어."
+    p "다시 안 왔으면 좋겠는데..."
 
 # game/FrontDoor.rpy:145
 translate korean AnswerFrontDoor_4f7079f3_1:
@@ -688,13 +688,13 @@ translate korean ComeIn_cb44085d:
 translate korean ComeIn_1ac845ea:
 
     # n "I.. I-"
-    n "나.. 나-"
+    n "저.. 저-"
 
 # game/FrontDoor.rpy:337
 translate korean ComeIn_ad9b4165:
 
     # n "I... I don't feel good.."
-    n "나... 기분이 안 좋아.."
+    n "저... 기분이 안 좋아요.."
 
 # game/FrontDoor.rpy:338
 translate korean ComeIn_2094a779_1:
@@ -730,7 +730,7 @@ translate korean ComeIn_3ec57d49_2:
 translate korean ComeIn_86bfa5d6:
 
     # "*You feel something is not right*"
-    "*뭔가 잘못됐다는 느낌이 든다*"
+    "*뭔가 잘못된 느낌이 든다*"
 
 # game/FrontDoor.rpy:355
 translate korean ComeIn_b853ea57:
@@ -748,7 +748,7 @@ translate korean ComeIn_79142808:
 translate korean ComeIn_fe839c4f:
 
     # p " What?"
-    p "뭐요?"
+    p "뭐라고요?"
 
 # game/FrontDoor.rpy:358
 translate korean ComeIn_30bd2c5d:
@@ -760,7 +760,7 @@ translate korean ComeIn_30bd2c5d:
 translate korean ComeIn_3f238ca1:
 
     # p " Go? Where?"
-    p "가요? 어디로요?"
+    p "간다고요? 어디로요?"
 
 # game/FrontDoor.rpy:360
 translate korean ComeIn_ee50cda8:
@@ -808,7 +808,7 @@ translate korean TalkToSilvia_4f7079f3:
 translate korean TalkToSilvia_7ca7f4d0:
 
     # s "Good evening, apologies for the troubles. I know it's a weird time to visit. My name is Silvia, I'm from the local police department."
-    s "안녕하세요, 불편을 드려 죄송합니다. 늦은 시간에 방문한 거 알아요. 제 이름은 실비아이고, 지역 경찰서에서 왔습니다."
+    s "안녕하세요, 늦은 시간에 불편을 드려 죄송합니다. 저는 지역 경찰서에서 온 실비아 경관입니다."
 
 # game/FrontDoor.rpy:385
 translate korean TalkToSilvia_ff0f1eaf:
@@ -832,7 +832,7 @@ translate korean TalkToSilvia_35987496:
 translate korean TalkToSilvia_f3c9cd3c:
 
     # s "We've been dispatched tonight to aid people however we can, making sure everyone is following the issued safety rules."
-    s "저희는 오늘 시민분들을 돕고, 발표된 안전 수칙을 따르고 있는지 점검하기 위해 파견되었습니다."
+    s "저희는 오늘 시민분들을 돕고, 발표된 안전 수칙이 잘 지켜지고 있는지 점검하기 위해 파견되었습니다."
 
 # game/FrontDoor.rpy:391
 translate korean TalkToSilvia_e05628ba:
@@ -1264,31 +1264,31 @@ translate korean first_question_d1b11996:
 translate korean first_question_8f05f06f:
 
     # s "Sorry, I can't really disclose that information. Rest assured that we have all actives in place to minimize damages and to make sure everything goes back to normal as soon as possible."
-    s "죄송해요, 그 부분은 알려드릴 수 없습니다. 피해를 최소화하고 최대한 빨리 정상화시킬 수 있도록 모든 조치를 취하고 있으니 안심하세요."
+    s "죄송해요, 그 부분은 알려드릴 수 없습니다. 피해를 최소화하고, 최대한 빠르게 정상화시킬 수 있도록 모든 조치를 취하고 있으니 안심하세요."
 
 # game/FrontDoor.rpy:531
 translate korean first_question_ed9959a1:
 
     # s "Stay away from the infected and lock yourself in a safe place. Maybe the bathroom since usually the doors there can be locked."
-    s "감염자를 피하고 안전한 곳에 숨으세요. 일반적으로 화장실 문에는 잠금장치가 있으니까 화장실이 좋을 수도 있어요."
+    s "감염자를 피하고 안전한 곳에 숨으세요. 화장실 같은 곳이 좋겠네요. 보통 화장실 문에는 잠금장치가 있으니까요."
 
 # game/FrontDoor.rpy:533
 translate korean first_question_7bfad9f1:
 
     # s "Alright, thank you for your time. Please make sure to follow the safety rules."
-    s "알겠습니다, 시간 내주셔서 감사해요. 안전 수칙을 꼭 지켜주세요."
+    s "시간 내주셔서 감사합니다. 그리고 안전 수칙을 반드시 준수해 주시길 바랍니다."
 
 # game/FrontDoor.rpy:534
 translate korean first_question_4e21d838:
 
     # p "Will do, thank you officer."
-    p "그럴게요, 감사합니다 경관님."
+    p "명심할게요, 감사합니다 경관님."
 
 # game/FrontDoor.rpy:535
 translate korean first_question_9ec8f921:
 
     # s "Anyway, I'll be going now. Don't open the door for anyone—not even if they identify themselves as an authority or if they look like me. Ha-ha."
-    s "어쨌든 이제 가볼게요. 누구에게도 문을 열지 마세요—권위자로 신분을 밝히거나 저처럼 생겼더라도요. 하하."
+    s "그러면 저는 이만 가보겠습니다. 누구에게도 문을 열어주지 마세요. 그 사람이 자신을 권위자라고 밝히거나, 혹은 저와 똑같이 생긴 사람이 찾아오더라도요. 하하."
 
 # game/FrontDoor.rpy:536
 translate korean first_question_72dbd65a:
@@ -1306,7 +1306,7 @@ translate korean first_question_c8ea8a4a:
 translate korean first_question_0c5b9f38:
 
     # p "(Knowing the police are around kind of makes me feel safer.)"
-    p "(경찰이 근처에 있다는 걸 알면 좀 안심이 되네.)"
+    p "(주변에 경찰이 있다는걸 알게 되니 안심이 되네.)"
 
 # game/FrontDoor.rpy:542
 translate korean first_question_1be074bf:
@@ -1356,7 +1356,7 @@ translate korean strings:
 
     # game/FrontDoor.rpy:125
     old "Wait, shouldn't you be wearing a face mask?"
-    new "잠깐요, 마스크를 쓰셔야 하는 거 아니에요?"
+    new "잠깐만요, 마스크를 쓰셔야 하는 거 아니에요?"
 
     # game/FrontDoor.rpy:153
     old "Well... Now he has a mask... Maybe it's okay if I let him in?"

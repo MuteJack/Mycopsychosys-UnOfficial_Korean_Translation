@@ -4,7 +4,7 @@
 translate korean AnswerWindow_dd25bdf5:
 
     # p "Actually it's not that bad. Kind of artsy."
-    p "사실 그렇게 나쁘지 않아. 좀 예술적이네."
+    p "사실 그렇게 나쁘지 않아. 오히려 좀 예술적이네."
 
 # game/Loft.rpy:96
 translate korean AnswerWindow_0490b347:
@@ -70,7 +70,7 @@ translate korean AnswerWindow_12496ae2:
 translate korean AnswerWindow_13e847ee:
 
     # n "No, no, wait, I just jumped when I spotted this window. There aren't any on the other roof and I needed a way to go down and hide until this thing passes."
-    n "아뇨, 아뇨, 잠깐만요. 이 창문이 보이길레 뛰어내렸어요. 다른 집에는 지붕에 창문이 없어서 내려가서 숨을 곳이 필요했거든요, 폭풍이 끝날 때까지."
+    n "아뇨, 아뇨, 잠깐만요. 이 창문이 보이길래 뛰어내렸어요. 다른 집에는 지붕에 창문이 없어서 내려가서 숨을 곳이 필요했거든요, 폭풍이 끝날 때까지."
 
 # game/Loft.rpy:119
 translate korean AnswerWindow_50b9286d:
@@ -82,7 +82,7 @@ translate korean AnswerWindow_50b9286d:
 translate korean AnswerWindow_c60dc388:
 
     # p "(Wait, the next rooftop? That's Onna's house. Maybe I should ask her about this visitor.)"
-    p "(잠깐, 옆집? 거긴 온나씨의 집인데. 그녀에게 저 녀석에 대해서 물어봐야겠어.)"
+    p "(잠깐, 옆집? 거긴 온나 씨의 집인데. 그녀에게 저 녀석에 대해서 물어봐야겠어.)"
 
 # game/Loft.rpy:126
 translate korean AnswerWindow_6d1c33fc:
@@ -112,25 +112,25 @@ translate korean AnswerWindow_7dfad0d7:
 translate korean AnswerWindow_1c3f3527:
 
     # p "(I'll try calling Onna to see if she knows something about this.)"
-    p "(온나씨에게 전화해서 저 사람에 대해 뭔가 아는지 물어봐야겠다.)"
+    p "(온나 씨에게 전화해서 저 녀석에 대해 뭔가 아는지 물어봐야겠다.)"
 
 # game/Loft.rpy:147
 translate korean AnswerWindow_2c239005:
 
     # p "I'll make you pay for it."
-    p "대가를 치르게 해주겠어."
+    p "너, 이거 물어내야 할 거야."
 
 # game/Loft.rpy:148
 translate korean AnswerWindow_75dfe7e3:
 
     # n "Heh... I'll get the money somehow..."
-    n "헤... 어떻게든 돈을 구할게요..."
+    n "헤헤... 돈은 어떻게든 구해볼게요..."
 
 # game/Loft.rpy:154
 translate korean AnswerWindow_c83dac10:
 
     # "You head downstairs and close the trapdoor behind you."
-    "아래층으로 내려가 뒤의 다락문을 닫는다."
+    "아래층으로 내려가 다락문을 닫는다."
 
 # game/Loft.rpy:156
 translate korean AnswerWindow_06b3371c:
@@ -142,7 +142,7 @@ translate korean AnswerWindow_06b3371c:
 translate korean AnswerWindow_26897733:
 
     # p "I'll have to get that fixed before the landlord notices."
-    p "집주인이 눈치채기 전에 고쳐야겠다."
+    p "집주인이 눈치채기 전에 고쳐놔야겠다."
 
 # game/Loft.rpy:158
 translate korean AnswerWindow_6f5b0150:
@@ -166,7 +166,7 @@ translate korean AnswerWindow_c30625f5:
 translate korean AnswerWindow_6cc4d1d1:
 
     # n "I told you I was wearing a mask to protect myself."
-    n "마스크 쓰고 있다고 말했잖아요, 저 자신을 보호하려고."
+    n "말했잖아요, 마스크 쓰고 있다고. 저 자신을 보호하기 위함이에요."
 
 # game/Loft.rpy:164
 translate korean AnswerWindow_d34b04f8:
@@ -178,7 +178,7 @@ translate korean AnswerWindow_d34b04f8:
 translate korean AnswerWindow_c166aaa7:
 
     # n "What? ..."
-    n "뭐요? ..."
+    n "뭐가요? ..."
 
 # game/Loft.rpy:166
 translate korean AnswerWindow_4abb46ad:
@@ -208,7 +208,7 @@ translate korean AnswerWindow_26f44eca:
 translate korean AnswerWindow_f886b337:
 
     # "Noah takes off their mask and you can see a young scared face"
-    "노아가 마스크를 벗자 겁먹은 어린 얼굴이 보인다"
+    "노아가 마스크를 벗자 겁먹은 어린아이의 모습이 보인다"
 
 # game/Loft.rpy:174
 translate korean AnswerWindow_5ff73bbc:
@@ -220,7 +220,7 @@ translate korean AnswerWindow_5ff73bbc:
 translate korean AnswerWindow_2c567fcf:
 
     # p "Take a seat wherever. Let's just wait for this night to end."
-    p "아무 데나 앉아. 그냥 이 밤이 끝나길 기다리자."
+    p "아무 데나 앉아. 그냥 이 밤이 끝날 때까지 기다리자."
 
 # game/Loft.rpy:178
 translate korean AnswerWindow_56a7e26d:
@@ -232,7 +232,7 @@ translate korean AnswerWindow_56a7e26d:
 translate korean AnswerWindow_92871aad:
 
     # p "I'm still not sure."
-    p "아직 잘 모르겠어."
+    p "아직은 잘 모르겠어."
 
 # game/Loft.rpy:184
 translate korean AnswerWindow_2190bfae:
@@ -244,7 +244,7 @@ translate korean AnswerWindow_2190bfae:
 translate korean AnswerWindow_a0ef289f:
 
     # n "Okay but hurry up. Every little noise freaks me out."
-    n "알겠어요, 다만 서둘러주세요. 주변의 모든 소리가 전부 소름끼쳐요."
+    n "알겠어요, 다만 서둘러주세요. 주변의 모든 소리가 전부 소름 끼쳐요."
 
 # game/Loft.rpy:189
 translate korean AnswerWindow_d9bd3388:
@@ -310,7 +310,7 @@ translate korean AnswerWindow_1a7fe896:
 translate korean AnswerWindow_8e4cffb1:
 
     # p "A difficult decision really…"
-    p "참 어려운 결정이네... 안그래?"
+    p "참 어려운 결정이네... 안 그래?"
 
 # game/Loft.rpy:200
 translate korean AnswerWindow_6d632281:
@@ -352,13 +352,13 @@ translate korean AnswerWindow_261c6a86:
 translate korean AnswerWindow_d76db043:
 
     # n "I already told you! I work for the TV company! I fix antennas."
-    n "이미 말했잖아요! TV 회사에서 일해요! 안테나 고치러 왔다고요."
+    n "말했잖아요! TV 회사에서 일해요! 안테나 고치러 왔다고요."
 
 # game/Loft.rpy:207
 translate korean AnswerWindow_54d6de91:
 
     # p "What were you doing on my rooftop? I don't trust you."
-    p "다시한번 물어볼게. 내 지붕에서 뭐 하고 있었어? 거짓말하는거 알아."
+    p "다시 한번 물어볼게. 내 지붕에서 뭐 하고 있었어? 거짓말하는 거 알아."
 
 # game/Loft.rpy:208
 translate korean AnswerWindow_bb2cf764_2:
@@ -370,7 +370,7 @@ translate korean AnswerWindow_bb2cf764_2:
 translate korean AnswerWindow_f950654f:
 
     # n "I WAS GOING TO ROB YOU OKAY!?"
-    n "집 털러 온 거예요, 됐어요?!"
+    n "집 털러 왔어요, 이제 만족해요?!"
 
 # game/Loft.rpy:210
 translate korean AnswerWindow_48160e63:
@@ -394,7 +394,7 @@ translate korean AnswerWindow_d47bd705:
 translate korean AnswerWindow_88021664:
 
     # n "It's always the same… Fuck! I don't want to go back to juvie."
-    n "항상 이런식이야... 젠장! 소년원에 다시 가기 싫다고요."
+    n "항상 이런 식이야... 젠장! 또다시 소년원으로 끌려가는 건 이제 싫다고요."
 
 # game/Loft.rpy:214
 translate korean AnswerWindow_256bae54:
@@ -448,19 +448,19 @@ translate korean AnswerWindow_f41938d9:
 translate korean AnswerWindow_6f38c54e:
 
     # n "If you let me in I'll just stay here, in your attic, not bothering you. And when all of this is over you'll never see me again."
-    n "들여보내 주면 여기 다락방에 조용히 있을게요, 귀찮게 안 할게요. 폭풍이 끝나면 다시는 안 볼 거예요."
+    n "들여보내 주시면 여기 다락방에 조용히 있을게요, 귀찮게 안 할게요. 폭풍이 끝나면 다시는 안 볼 거예요."
 
 # game/Loft.rpy:231
 translate korean AnswerWindow_f8fb5b26:
 
     # p "No, sorry. I can't do that. I have to protect myself."
-    p "아니, 미안. 그럴 순 없어. 난 나 자신을 지켜야 해."
+    p "아니, 미안하지만 그럴 수는 없어. 난 나 자신을 지켜야 해."
 
 # game/Loft.rpy:232
 translate korean AnswerWindow_72d1f8dc:
 
     # n "No please! I'll die out here! Please!"
-    n "안 돼요 제발! 여기서 죽고 말거예요! 제발요!"
+    n "안 돼요, 제발! 여기서 죽고 말 거예요! 제발요!"
 
 # game/Loft.rpy:233
 translate korean AnswerWindow_c8ea8a4a_1:
@@ -484,13 +484,13 @@ translate korean AnswerWindow_580347ae:
 translate korean AnswerWindow_f8fb5b26_1:
 
     # p "No, sorry. I can't do that. I have to protect myself."
-    p "아니, 미안. 그럴 순 없어. 난 나 자신을 지켜야 해."
+    p "아니, 미안하지만 그럴 수는 없어. 난 나 자신을 지켜야 해."
 
 # game/Loft.rpy:242
 translate korean AnswerWindow_72d1f8dc_1:
 
     # n "No please! I'll die out here! Please!"
-    n "안 돼요 제발! 여기서 죽을 거예요! 제발요!"
+    n "안 돼요, 제발! 여기서 죽고 말 거예요! 제발요!"
 
 # game/Loft.rpy:243
 translate korean AnswerWindow_0774073e:
@@ -502,13 +502,13 @@ translate korean AnswerWindow_0774073e:
 translate korean AnswerWindow_9e434777:
 
     # n "Like that would work! There's no other opening!"
-    n "그게 될 리가요! 거기는 다른 입구가 없다고요!"
+    n "그게 가능할 리가요! 거기에는 다른 입구가 없다고요!"
 
 # game/Loft.rpy:245
 translate korean AnswerWindow_382fb8ce:
 
     # n "But okay, I get it. You won't help me."
-    n "하지만... 알았어요. 도와주지 않을 거죠."
+    n "하지만... 알았어요. 도와줄 생각 없는 거죠."
 
 # game/Loft.rpy:246
 translate korean AnswerWindow_87846147:
@@ -550,25 +550,25 @@ translate korean NoahLetIn_2303bc12:
 translate korean NoahLetIn_bf92b21f:
 
     # p "Wait, this window has been stuck for ages. I don't know if I'll be able to open it."
-    p "잠깐, 이 창문 오래전부터 안 열렸어. 열 수 있을지 모르겠는데."
+    p "잠깐, 이 창문 안 열린 지 좀 됐어. 열 수 있을지 모르겠는데."
 
 # game/Loft.rpy:267
 translate korean NoahLetIn_b6b2db4d:
 
     # n "Then just break it."
-    n "그냥 깨버리면 안되요?"
+    n "그냥 깨버리면 안 돼요?"
 
 # game/Loft.rpy:268
 translate korean NoahLetIn_32174dc8:
 
     # p "No, contrary to you I don't have a mask. If I break it I'll get infected."
-    p "안 돼, 난 너처럼 마스크가 없어서 깨면 감염될거야."
+    p "안 돼, 난 너처럼 마스크가 없어서 깨면 감염될 거야."
 
 # game/Loft.rpy:269
 translate korean NoahLetIn_e6260edc:
 
     # n "Then let me do it. Go downstairs and I'll break it."
-    n "그럼 제가 할게요. 잠깐 아래로 가봐요."
+    n "그럼 제가 해볼게요. 잠깐 아래로 가봐요."
 
 # game/Loft.rpy:270
 translate korean NoahLetIn_90b582cf:
@@ -598,7 +598,7 @@ translate korean NoahLetIn_c8ea8a4a:
 translate korean NoahLetIn_2c239005:
 
     # p "I'll make you pay for it."
-    p "너, 이거 물어내야될거야."
+    p "너, 이거 물어내야 할 거야."
 
 # game/Loft.rpy:280
 translate korean NoahLetIn_75dfe7e3:
@@ -622,7 +622,7 @@ translate korean NoahLetIn_06b3371c:
 translate korean NoahLetIn_26897733:
 
     # p "I'll have to get that fixed before the landlord notices."
-    p "집주인이 눈치채기 전에 고쳐야겠다."
+    p "집주인이 눈치채기 전에 고쳐놔야겠다."
 
 # game/Loft.rpy:290
 translate korean NoahLetIn_6f5b0150:
@@ -646,7 +646,7 @@ translate korean NoahLetIn_c30625f5:
 translate korean NoahLetIn_6cc4d1d1:
 
     # n "I told you I was wearing a mask to protect myself."
-    n "마스크 쓰고 있다고 말했잖아요, 저 자신을 보호하려고."
+    n "말했잖아요, 마스크 쓰고 있다고. 저 자신을 보호하기 위함이에요."
 
 # game/Loft.rpy:296
 translate korean NoahLetIn_d34b04f8:
@@ -670,7 +670,7 @@ translate korean NoahLetIn_4abb46ad:
 translate korean NoahLetIn_2bfc303d:
 
     # n "No, but-"
-    n "싫어요, 하지만-"
+    n "하지만-"
 
 # game/Loft.rpy:300
 translate korean NoahLetIn_bb2cf764:
@@ -688,7 +688,7 @@ translate korean NoahLetIn_26f44eca:
 translate korean NoahLetIn_f886b337:
 
     # "Noah takes off their mask and you can see a young scared face"
-    "노아가 마스크를 벗자 겁먹은 어린 얼굴이 보인다"
+    "노아가 마스크를 벗자 겁먹은 어린아이의 모습이 보인다"
 
 # game/Loft.rpy:306
 translate korean NoahLetIn_5ff73bbc:
@@ -700,7 +700,7 @@ translate korean NoahLetIn_5ff73bbc:
 translate korean NoahLetIn_2c567fcf:
 
     # p "Take a seat wherever. Let's just wait for this night to end."
-    p "아무 데나 앉아. 그냥 이 밤이 끝나길 기다리자."
+    p "아무 데나 앉아. 그냥 이 밤이 끝날 때까지 기다리자."
 
 # game/Loft.rpy:310
 translate korean NoahLetIn_56a7e26d:
@@ -712,7 +712,7 @@ translate korean NoahLetIn_56a7e26d:
 translate korean NoahLetIn_92871aad:
 
     # p "I'm still not sure."
-    p "아직 잘 모르겠어."
+    p "아직은 잘 모르겠어."
 
 # game/Loft.rpy:317
 translate korean NoahLetIn_2190bfae:
@@ -724,13 +724,13 @@ translate korean NoahLetIn_2190bfae:
 translate korean NoahLetIn_a0ef289f:
 
     # n "Okay but hurry up. Every little noise freaks me out."
-    n "알겠어요, 다만 서둘러주세요. 주변의 모든 소리가 전부 소름끼쳐요."
+    n "알겠어요, 다만 서둘러주세요. 주변의 모든 소리가 전부 소름 끼쳐요."
 
 # game/Loft.rpy:325
 translate korean NoahFall_470581ca:
 
     # "Suddenly you hear a loud thud outside. Followed by an agonizing scream."
-    "갑자기 밖에서 쿵 소리가 들린다. 이어서 고통스러운 비명이..."
+    "갑자기 밖에서 쿵 소리가 크게 들린다. 이어서 고통스러운 비명이..."
 
 # game/Loft.rpy:326
 translate korean NoahFall_626dc31d:
@@ -748,7 +748,7 @@ translate korean NoahFall_1591aed5:
 translate korean NoahFall_4b3ba7dd:
 
     # n "No! Leave me alone! Don't get any closer! No! No-"
-    n "안 돼! 가까이 오지 마! 날 내버려 둬! 안 돼! 제발-"
+    n "안 돼! 가까이 오지 마! 날 내버려둬! 안 돼! 제발-"
 
 # game/Loft.rpy:329
 translate korean NoahFall_507a7769:
@@ -778,25 +778,25 @@ translate korean NoahFall_c8ea8a4a:
 translate korean NoahFall_37e73162:
 
     # p "Please let this night be over."
-    p "제발, 어서 이 밤이 끝나게 해줘."
+    p "제발, 이 밤이 어서 끝나기를..."
 
 # game/Loft.rpy:344
 translate korean StrangerAtLoft_cd64b481:
 
     # r "H-hello? Is anybody here? I see light coming from inside the house!"
-    r "저-저기요? 거기 누구 있어요? 집 안에서 불빛이 보여요!"
+    r "저-저기요? 거기 누구 있어요? 안에 불빛이 보여요!"
 
 # game/Loft.rpy:345
 translate korean StrangerAtLoft_75e21b96:
 
     # p "(What? The voice is coming from the attic's window. How can someone...?!)"
-    p "(뭐? 다락방 창문에서 목소리가 들려. 대체 누가...?!)"
+    p "(뭐지? 다락방 창문에서 목소리가 들려. 대체 누가...?!)"
 
 # game/Loft.rpy:346
 translate korean StrangerAtLoft_82167b93:
 
     # p "(Is it just me or does it look like today I'm hosting a party? Everyone is coming here!)"
-    p "(오늘 파티라도 열린 건가? 왜 다들 하필 내 집으로만 모이는거야!)"
+    p "(오늘 파티라도 열린 건가? 왜 다들 하필 내 집으로만 모이는 거야!)"
 
 # game/Loft.rpy:347
 translate korean StrangerAtLoft_074af102:
@@ -850,7 +850,7 @@ translate korean LoftDeath_3085bbd1:
 translate korean LoftDeath_68b2bd82:
 
     # p "I'll die here, I'll die, I'll die, I'll die. Where can I go?"
-    p "여기서 죽을수는 없어, 젠장, 젠장..! 어디로 가야하지?"
+    p "여기서 죽을 수는 없어, 젠장, 젠장..! 어디로 가야 하지?"
 
 # game/Loft.rpy:366
 translate korean Painting_de126f06:
@@ -862,7 +862,7 @@ translate korean Painting_de126f06:
 translate korean Painting_3ea38c72:
 
     # p "I didn't like this painting anyway..."
-    p "어차피 이 그림 마음에 안 들었어..."
+    p "어차피 이 그림 마음에 안 들었으니까..."
 
 translate korean strings:
 

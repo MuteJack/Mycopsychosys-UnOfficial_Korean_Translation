@@ -52,19 +52,19 @@ translate korean DeathNoah_9837156a:
 translate korean DeathNoah_5dc0c4fa:
 
     # n "But that's enough! I'll become so beautiful, so full of color, that no one will be able to ignore me anymore!"
-    n "하지만 이젠 됐어! 나는 너무나도 아름답고, 화려해져서, 아무도 더 이상 나를 무시할 수 없을거야!"
+    n "하지만 이젠 됐어! 나는 이제 너무나도 아름답고, 화려해질 테니까, 누구도 더 이상 나를 무시할 수 없을 거야!"
 
 # game/Hall.rpy:147
 translate korean DeathNoah_5feafdd0:
 
     # n "And you, [Name], can be beautiful aswell..."
-    n "그리고 너도, [Name], 아름다워질 수 있어..."
+    n "그리고 너도, [Name], 나처럼 아름다워질 수 있어..."
 
 # game/Hall.rpy:148
 translate korean DeathNoah_6ac708be:
 
     # p "No! Stay away from me!"
-    p "안 돼! 나한테서 떨어져!"
+    p "오지 마! 나한테서 떨어져!"
 
 # game/Hall.rpy:149
 translate korean DeathNoah_4ebbf508:

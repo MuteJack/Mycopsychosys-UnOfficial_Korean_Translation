@@ -10,19 +10,19 @@ translate korean UsePC_751dc419:
 translate korean UsePC_3137cd28:
 
     # p " All of those recommendations are new... are the spores evolving or something? Those symptoms, the hallucinations, and specially the {color=#f00}blooming{/color}... It's creeping me out."
-    p "이 권장 사항들은 전부 새로운 거잖아... 포자가 진화라도 하는건가? 저 증상들, 환각, 그리고 특히 {color=#f00}개화{/color}라니... 소름 끼쳐..."
+    p "이 권고 사항들은 전부 새로운 거잖아... 포자가 진화라도 하는건가? 저 증상들, 환각, 그리고 특히 {color=#f00}개화{/color}라니... 소름 끼쳐..."
 
 # game/Bedroom.rpy:54
 translate korean UsePC_a540ff38:
 
     # p " I better follow those recommendations carefully."
-    p "이 권장 사항들을 꼼꼼히 따라야겠어."
+    p "이 권고들을 꼼꼼히 따라야겠어."
 
 # game/Bedroom.rpy:67
 translate korean CallSilvia_59bdd5e3:
 
     # p "Someone at the front door again?"
-    p "또 현관문에 누가 있나?"
+    p "누가 또 현관문 앞에 찾아온 건가?"
 
 # game/Bedroom.rpy:68
 translate korean CallSilvia_e098d4e5:
