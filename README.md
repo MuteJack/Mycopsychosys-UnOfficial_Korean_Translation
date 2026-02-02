@@ -6,15 +6,15 @@
 
 ## 적용 방법 (테스트용):
 > Note: 원본 게임은 한글 폰트를 지원하지 않으므로 폰트 깨짐 문제가 발생할 수 있습니다. 해당 사항에 대해서는 5번을 참고해주세요.
-1. 게임의 `/game/tl/russian` 폴더에 .rpy파일들을 넣어주세요
-2. 각 .rpy파일들을 열고, `translate korean` 부분을 모두 `translate russian`으로 일괄 변경합니다.
-3. 게임을 켜고, `russian`을 선택해주세요.
-4. russian외에도, 게임에서 지원하는 언어면 모두 적용 가능합니다.
-5. `options.rpy`에 한글 폰트에 대한 설정이 추가적으로 작성되어있습니다.
-   5.1. 게임의 `/game/fonts/` 폴더에 `/NanumGothic` 폴더를 생성해주세요
-   5.2. `/game/fonts/NanumGothic/`에 `NanumGothic.ttf` 폰트 파일을 추가합니다. [나눔 고딕 폰트 다운로드](https://hangeul.naver.com/font)
-   5.3. 원하신다면 `options.rpy`파일을 수정하여 나눔고딕이 아닌 원하시는 다른 폰트를 사용하실 수 있습니다.
-   5.4. Error Handling에 대해 번역 시, options.rpy에 추가된 코드만으로는 폰트 문제가 발생할 수 있습니다. 게임 플레이와는 무관하니 이 부분에 대해서는 번역하지 않으시는 것을 추천드립니다.
+- 1. 게임의 `/game/tl/russian` 폴더에 .rpy파일들을 넣어주세요
+- 2. 각 .rpy파일들을 열고, `translate korean` 부분을 모두 `translate russian`으로 일괄 변경합니다.
+- 3. 게임을 켜고, `russian`을 선택해주세요.
+- 4. russian외에도, 게임에서 지원하는 언어면 모두 적용 가능합니다.
+- 5. `options.rpy`에 한글 폰트에 대한 설정이 추가적으로 작성되어있습니다.  
+  - 1. 게임의 `/game/fonts/` 폴더에 `/NanumGothic` 폴더를 생성해주세요  
+  - 2. `/game/fonts/NanumGothic/`에 `NanumGothic.ttf` 폰트 파일을 추가합니다. [나눔 고딕 폰트 다운로드](https://hangeul.naver.com/font)  
+  - 3. 원하신다면 `options.rpy`파일을 수정하여 나눔고딕이 아닌 원하시는 다른 폰트를 사용하실 수 있습니다.  
+  - 4. Error Handling에 대해 번역 추가 시, options.rpy에 추가된 코드만으로는 폰트 문제가 발생할 수 있습니다. Error Handling에 대한 부분은 오류 발생에 관한 부분으로 게임 플레이와는 무관하니 이 부분에 대해서는 번역하지 않으시는 것을 추천드립니다.  
 
 ## 추가 사항:
 본 레포지터리는 [비공식 번역/기능 패치](https://github.com/MuteJack/Mycopsychosys-UnOfficial-Patch)의 번역 스크립트만을 포함하고 있습니다.  
@@ -35,6 +35,7 @@
 게임 버전 지원:
 - 게임 이름: Mycopsychosys Remastered
 - 게임 버전: Mycopsychosys v2.0 (2026.01.06)
+- 번역 버전: v1.0.2 (2026.02.02)
  
 ## 주의사항
 - 해당 번역은 비공식 팬메이드이며, DeltaCat Studio와 관련이 없습니다.
