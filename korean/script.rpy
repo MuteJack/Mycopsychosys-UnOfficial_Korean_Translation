@@ -406,7 +406,7 @@ translate korean BasementGameOver_fb086a06:
 translate korean BasementGameOver_1b356a69:
 
     # n "W-Who is this guy?! Are you a kidnapper or something [Name]?"
-    n "이-이 사람은 또 누구에요?! [Name], 당신 납치범이야 뭐야?"
+    n "저-저 사람은 또 누구에요?! [Name], 당신 납치범이야 뭐야?"
 
 # game/script.rpy:401
 translate korean BasementGameOver_e1989c51:
@@ -1996,7 +1996,7 @@ translate korean EndNoah_5b81c148:
 translate korean GameOverSilvia_9b45edf0:
 
     # s "Oh- So this is where he hides."
-    s "오- 그래서 여기에 숨어 있었구나."
+    s "오호라- 이런 곳에 숨어있었단 말이지?"
 
 # game/script.rpy:888
 translate korean GameOverSilvia_e379504b:
@@ -2008,7 +2008,7 @@ translate korean GameOverSilvia_e379504b:
 translate korean GameOverSilvia_f900ba49:
 
     # s "They call us crazy when we are the most sane."
-    s "우리가 가장 제정신인데 사람들은 우리를 보고 미쳤다고 하지."
+    s "사람들은 우리를 미쳤다고 하지. 사실, 우리가 가장 정상인데."
 
 # game/script.rpy:890
 translate korean GameOverSilvia_87391f0e:
@@ -2020,19 +2020,19 @@ translate korean GameOverSilvia_87391f0e:
 translate korean GameOverSilvia_c0d7f3d2:
 
     # p "Uhm. W-What?"
-    p "음. 뭐-뭐라고요?"
+    p "어... 뭐-뭐라고요?"
 
 # game/script.rpy:892
 translate korean GameOverSilvia_f346d9ee:
 
     # s "Oh but poor [Name], don't worry. I am here to help after all."
-    s "오 하지만 걱정하지 마, 불쌍한 [Name]. 어찌 됐든 난 너를 도우러 온 거니까."
+    s "아아- 불쌍한 [Name], 걱정할 필요 없어요. 어찌 됐든 난 너를 도우러 온 거니까."
 
 # game/script.rpy:893
 translate korean GameOverSilvia_0398f2fa:
 
     # s "Would you be so kind to open the door so I can arrest this dangerous criminal?"
-    s "저 위험한 범죄자를 체포할 수 있게 문 좀 열어줄래?"
+    s "저 위험한 범죄자를 체포할 수 있게 문 좀 열어주겠어?"
 
 # game/script.rpy:896
 translate korean GameOverSilvia_8331c99c:
@@ -2044,19 +2044,19 @@ translate korean GameOverSilvia_8331c99c:
 translate korean GameOverSilvia_63811c12:
 
     # s "The guidelines have changed. Protocol DangerousCriminal-04 has been activated. Your housing unit is no longer safe."
-    s "지침이 바뀌었어. 고위험인물-04 프로토콜이야. 네 주거 유닛은 더 이상 안전하지 않아."
+    s "새로운 정책이 발령되었어. 고위험인물-04 프로토콜이야. 네 주거 유닛은 더 이상 안전하지 않아."
 
 # game/script.rpy:898
 translate korean GameOverSilvia_c309e27c:
 
     # p "Neither is outside!"
-    p "밖이라고 달라지지 않아!"
+    p "집 밖이라고 달라지는 건 없어!"
 
 # game/script.rpy:899
 translate korean GameOverSilvia_dcfdd96c:
 
     # s "... Let me in. Hiding and denying entry for the arrest of a criminal is a crime."
-    s "... 문 열어. 범죄자 체포를 위한 입장을 숨기고 거부하는 건 범죄야."
+    s "... 당장 문 열어. 범죄자를 숨겨주고, 체포를 위한 입장을 거부하는 건 중범죄야."
 
 # game/script.rpy:902
 translate korean GameOverSilvia_2bb078ea:
@@ -2068,7 +2068,7 @@ translate korean GameOverSilvia_2bb078ea:
 translate korean GameOverSilvia_af5fad4e:
 
     # s "........................"
-    s "........................"
+    s "{cps=5}........................{/cps}"
 
 # game/script.rpy:904
 translate korean GameOverSilvia_82a7a6f3:
@@ -2080,7 +2080,7 @@ translate korean GameOverSilvia_82a7a6f3:
 translate korean GameOverSilvia_dcd71672:
 
     # s "Boo"
-    s "워!"
+    s "까꿍!"
 
 # game/script.rpy:921
 translate korean GameOverSilvia_16d34b36:
@@ -2092,7 +2092,7 @@ translate korean GameOverSilvia_16d34b36:
 translate korean GameOverSilvia_1e8685a4:
 
     # n "W-Who is that?!"
-    n "저-저건 누구야?!"
+    n "저-저건 또 뭐야?!"
 
 # game/script.rpy:923
 translate korean GameOverSilvia_383cd422:
@@ -2212,7 +2212,7 @@ translate korean GameOverSilvia_16d34b36_1:
 translate korean GameOverSilvia_4d2d9534:
 
     # s "Here, here..! I am here for yoou~"
-    s "여기, 여기..! 널 위해 여기 있어~"
+    s "여기야, 여기..! 널 잡으러 왔어~"
 
 # game/script.rpy:980
 translate korean GameOverSilvia_a6584065:
@@ -2248,7 +2248,7 @@ translate korean GameOverSilvia_df9f797e:
 translate korean GameOverSilvia_d55a9bd3_1:
 
     # p "Wait!"
-    p "잠깐!"
+    p "잠깐만!"
 
 # game/script.rpy:988
 translate korean GameOverSilvia_e0ae431b_1:
@@ -2338,7 +2338,7 @@ translate korean GameOverSilvia_2bb078ea_1:
 translate korean GameOverSilvia_16c9101f:
 
     # s "why do you make it so difficult?"
-    s "왜 그렇게 어렵게 만들어?"
+    s "...왜 계속 일을 어렵게 만들까?"
 
 # game/script.rpy:1027
 translate korean GameOverSilvia_9097d677:
@@ -2350,7 +2350,7 @@ translate korean GameOverSilvia_9097d677:
 translate korean GameOverSilvia_dcd71672_1:
 
     # s "Boo"
-    s "워!"
+    s "까꿍~"
 
 # game/script.rpy:1042
 translate korean GameOverSilvia_16d34b36_2:
@@ -2362,7 +2362,7 @@ translate korean GameOverSilvia_16d34b36_2:
 translate korean GameOverSilvia_1e8685a4_1:
 
     # n "W-Who is that?!"
-    n "저-저건 누구야?!"
+    n "저-저건 또 뭐야?!"
 
 # game/script.rpy:1044
 translate korean GameOverSilvia_383cd422_2:
@@ -2626,7 +2626,7 @@ translate korean GameOverSilvia_4383fcd0_2:
 translate korean GameOverSilvia_1e8685a4_2:
 
     # n "W-Who is that?!"
-    n "저-저건 누구야?!"
+    n "저-저건 또 뭐야?!"
 
 # game/script.rpy:1162
 translate korean GameOverSilvia_383cd422_4:
@@ -2860,7 +2860,7 @@ translate korean GameOverSilvia_15fb7cf2_1:
 translate korean GameOverSilvia_66d70df0:
 
     # s "Hugo Eskutza? I am here for yoou~"
-    s "휴고 에스쿠차? 널 위해 찾아왔어~"
+    s "휴고 에스쿠차? 널 찾으러 왔어~"
 
 # game/script.rpy:1274
 translate korean GameOverSilvia_a6584065_4:
@@ -2878,7 +2878,7 @@ translate korean GameOverSilvia_4383fcd0_4:
 translate korean GameOverSilvia_745a82ae:
 
     # n "What? W-Who is that?!"
-    n "뭐? 저-저건 누구야?!"
+    n "뭐야? 저-저건 또 누구야?!"
 
 # game/script.rpy:1277
 translate korean GameOverSilvia_383cd422_6:
@@ -3142,7 +3142,7 @@ translate korean strings:
 
     # game/script.rpy:894
     old "Yes of course, please come in."
-    new "네 물론이죠, 들어오세요."
+    new "아 물론이죠, 들어오세요."
 
     # game/script.rpy:900
     old "No! I am not letting you in!"
@@ -3154,7 +3154,7 @@ translate korean strings:
 
     # game/script.rpy:905
     old "..Who.. is there?"
-    new "..거기.. 누구 있어요?"
+    new "..누구 ...있어요?"
 
     # game/script.rpy:905
     old ". . ."
