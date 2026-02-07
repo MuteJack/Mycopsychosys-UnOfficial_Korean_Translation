@@ -2,14 +2,6 @@
 
 translate korean strings:
 
-    # Unofficial Patch (MuteJack-Korean/Subtitles) >> game/subtitle.rpy - Subtitle toggle button
-    old "Subtitles OFF"
-    new "자막 끄기"
-
-    old "Subtitles ON"
-    new "자막 켜기"
-
-
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
     new "자동 음성 읽기가 비활성화되었습니다."
@@ -1222,4 +1214,12 @@ translate korean strings:
     # # renpy/common/_errorhandling.rpym:796
     # old "Parsing the script failed."
     # new "스크립트 파싱에 실패했습니다."
+
+    # Unofficial Patch (MuteJack-Korean/Subtitles) >> game/subtitle.rpy - Subtitle toggle button
+    old "Subtitles OFF"
+    new "자막 끄기"
+
+    old "Subtitles ON"
+    new "자막 켜기"
+
 

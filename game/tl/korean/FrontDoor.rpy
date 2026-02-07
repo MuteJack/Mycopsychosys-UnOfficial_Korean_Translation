@@ -238,7 +238,7 @@ translate korean AnswerFrontDoor_6eaba516:
 translate korean AnswerFrontDoor_4e3f4d19:
 
     # f "Yes... I come in representation of the plague control department..."
-    f "네... 저는 역병 관리부를 대표하여..."
+    f "네... 저는 질병 관리국을 대표하여..."
 
 # game/FrontDoor.rpy:165
 translate korean AnswerFrontDoor_3ea9bcad:
@@ -646,13 +646,13 @@ translate korean ComeIn_718f3c27:
 translate korean ComeIn_aea7b87c:
 
     # n "T-This guy..! The old man from outside!"
-    n "이-이 사람..! 밖에서 온 아저씨잖아!"
+    n "이-이 사람..! 밖에 있던 아저씨잖아!"
 
 # game/FrontDoor.rpy:324
 translate korean ComeIn_fcbed78a:
 
     # n "You let him in, [Name]?!"
-    n "[Name], 당신이 들여보낸 거야?!"
+    n "당신이 들여보낸 거야?!"
 
 # game/FrontDoor.rpy:325
 translate korean ComeIn_fed87a3f:
@@ -772,7 +772,7 @@ translate korean ComeIn_ee50cda8:
 translate korean ComeIn_83406e0e:
 
     # p " No... stay away from me!"
-    p "안 돼... 저리 가!"
+    p "저... 저리 가!"
 
 # game/FrontDoor.rpy:364
 translate korean ComeIn_9a39e0a9:
@@ -856,7 +856,7 @@ translate korean TalkToSilvia_f6fc8c15:
 translate korean TalkToSilvia_0edde934:
 
     # s "Visitors? As per the PCD issued rules no one should be outside aside from the authorities in charge of managing the situation."
-    s "방문객이요? 역병 관리부 규정에 따르면 상황을 관리하는 당국 외에는 아무도 밖에 있으면 안 됩니다."
+    s "방문객이요? 질병 관리국 규정에 따르면 상황을 관리하는 당국 외에는 아무도 밖에 있으면 안 됩니다."
 
 # game/FrontDoor.rpy:399
 translate korean TalkToSilvia_6aff3597:
@@ -886,7 +886,7 @@ translate korean TalkToSilvia_c6ab77e5:
 translate korean TalkToSilvia_d0d4ffcc:
 
     # s "Now, following my orders I'm here to aid you in any way I can. I won't be able to physically interact with you but I can answer any question you may have."
-    s "자, 저는 명령에 따라 가능한 모든 수단을 동원해 도와드리러 왔습니다. 물리적으로 접촉할 수는 없지만, 질문이 있으시면 답해 드릴 수는 있어요."
+    s "자, 저는 명령에 따라 가능한 모든 수단을 동원해 당신을 도와드리러 왔습니다. 물리적으로 접촉할 수는 없지만, 질문이 있으시면 답해 드릴 수는 있어요."
 
 # game/FrontDoor.rpy:413
 translate korean TalkToSilvia_63570a2b:
@@ -1264,7 +1264,7 @@ translate korean first_question_d1b11996:
 translate korean first_question_8f05f06f:
 
     # s "Sorry, I can't really disclose that information. Rest assured that we have all actives in place to minimize damages and to make sure everything goes back to normal as soon as possible."
-    s "죄송해요, 그 부분은 알려드릴 수 없습니다. 피해를 최소화하고, 최대한 빠르게 정상화시킬 수 있도록 모든 조치를 취하고 있으니 안심하세요."
+    s "죄송하지만, 그 부분은 알려드릴 수 없습니다. 피해를 최소화하고, 최대한 빠르게 정상화시킬 수 있도록 모든 조치를 취하고 있으니 안심하세요."
 
 # game/FrontDoor.rpy:531
 translate korean first_question_ed9959a1:

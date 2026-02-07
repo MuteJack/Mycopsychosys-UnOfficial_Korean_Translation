@@ -82,7 +82,7 @@ translate korean AnswerWindow_50b9286d:
 translate korean AnswerWindow_c60dc388:
 
     # p "(Wait, the next rooftop? That's Onna's house. Maybe I should ask her about this visitor.)"
-    p "(잠깐, 옆집? 거긴 온나 씨의 집인데. 그녀에게 저 녀석에 대해서 물어봐야겠어.)"
+    p "(잠깐, 옆집? 거긴 온나 씨의 집이잖아. 그녀에게 저 녀석에 대해서 물어봐야겠어.)"
 
 # game/Loft.rpy:126
 translate korean AnswerWindow_6d1c33fc:
@@ -160,13 +160,13 @@ translate korean AnswerWindow_6ec6eebe:
 translate korean AnswerWindow_c30625f5:
 
     # p "What? What's with that mask?"
-    p "뭐야? 그 마스크는 뭐야?"
+    p "깜작이야! 그 마스크는 뭐야?"
 
 # game/Loft.rpy:163
 translate korean AnswerWindow_6cc4d1d1:
 
     # n "I told you I was wearing a mask to protect myself."
-    n "말했잖아요, 마스크 쓰고 있다고. 저 자신을 보호하기 위함이에요."
+    n "말했잖아요, 마스크 쓰고 있다고. 감염되면 안되잖아요."
 
 # game/Loft.rpy:164
 translate korean AnswerWindow_d34b04f8:
@@ -184,7 +184,7 @@ translate korean AnswerWindow_c166aaa7:
 translate korean AnswerWindow_4abb46ad:
 
     # p "Nothing. It's.. erm.. A cool mask but since I trusted you to let you in, the least you could do is take it off."
-    p "아무것도. 그게.. 음.. 멋진 마스크지만, 내가 널 믿고 들여보냈으니 최소한 벗어야 하지 않겠어?"
+    p "아무것도. 그게.. 음.. 멋진 마스크지만, 내가 널 믿고 들여보냈으니 최소한 얼굴은 보여줘야 하지 않겠어?"
 
 # game/Loft.rpy:167
 translate korean AnswerWindow_2bfc303d:
@@ -220,7 +220,7 @@ translate korean AnswerWindow_5ff73bbc:
 translate korean AnswerWindow_2c567fcf:
 
     # p "Take a seat wherever. Let's just wait for this night to end."
-    p "아무 데나 앉아. 그냥 이 밤이 끝날 때까지 기다리자."
+    p "아무 데나 앉아. 그냥 폭풍이 지나갈 때까지 기다리자."
 
 # game/Loft.rpy:178
 translate korean AnswerWindow_56a7e26d:
@@ -424,7 +424,7 @@ translate korean AnswerWindow_1748d55f:
 translate korean AnswerWindow_9b162d7c:
 
     # p "Do you know your house phone number?"
-    p "집 전화번호 알아?"
+    p "집 전화번호는 알아?"
 
 # game/Loft.rpy:219
 translate korean AnswerWindow_4ac4dbbc:
@@ -646,7 +646,7 @@ translate korean NoahLetIn_c30625f5:
 translate korean NoahLetIn_6cc4d1d1:
 
     # n "I told you I was wearing a mask to protect myself."
-    n "말했잖아요, 마스크 쓰고 있다고. 저 자신을 보호하기 위함이에요."
+    n "말했잖아요, 마스크 쓰고 있다고. 감염되면 안되잖아요."
 
 # game/Loft.rpy:296
 translate korean NoahLetIn_d34b04f8:
@@ -820,7 +820,7 @@ translate korean LoftDeath_730911d8:
 translate korean LoftDeath_5a522c15:
 
     # " What started as a mildly unpleasant smell has turned into a painful odor, similar to blood but different."
-    "처음엔 약간 불쾌했던 냄새가 고통스러운 악취로 변했다, 피 냄새 같지만 다르다."
+    "처음엔 약간 불쾌했던 냄새가 고통스러운 악취로 변했다. 피 냄새 같지만 조금 다른 냄새가..."
 
 # game/Loft.rpy:358
 translate korean LoftDeath_d0467cc8:

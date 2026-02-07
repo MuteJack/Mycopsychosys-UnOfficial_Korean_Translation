@@ -61,7 +61,7 @@ translate korean Harold_2aebfbdf:
     
 #     # game/Bedroom.rpy:60
 #     old "(This game includes an external website made by the Plague Control Department with the recomendations to survive the storm. The website is www.mycopsychosis.online. Do you want to open it in your browser?)"
-#     new "(이 게임에는 폭풍에서 살아남기 위한 권장 사항이 담긴 전염병 관리국의 외부 웹사이트가 포함되어 있습니다. www.mycopsychosis.online 웹페이지를 브라우저에서 열어보시겠습니까?)"
+#     new "(이 게임에는 폭풍에서 살아남기 위한 권장 사항이 담긴 질병 관리국의 외부 웹사이트가 포함되어 있습니다. www.mycopsychosis.online 웹페이지를 브라우저에서 열어보시겠습니까?)"
     
 #     # game/Bedroom.rpy:62
 #     old "Yes. Open the website."

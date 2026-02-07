@@ -136,7 +136,7 @@ translate korean WindowGameOver_92bc1035:
 translate korean WindowGameOver_c759cef5_1:
 
     # n "W-What was that sound? What's going on!?"
-    n "무-무슨 소리야? 무슨 일이야!?"
+    n "무-무슨 소리야? 대체 무슨 일이에요!?"
 
 # game/script.rpy:291
 translate korean WindowGameOver_90e9e971_1:
@@ -178,7 +178,7 @@ translate korean WindowGameOver_55df47f4:
 translate korean WindowGameOver_faaadfd1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐요! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭔 짓거리를 하는 거-"
 
 # game/script.rpy:313
 translate korean WindowGameOver_00a0e43a:
@@ -202,7 +202,7 @@ translate korean WindowGameOver_3a52cde5:
 translate korean WindowGameOver_faaadfd1_1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐요! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭔 짓거리를 하는 거-"
 
 # game/script.rpy:331
 translate korean WindowGameOver_597bd052_1:
@@ -772,19 +772,19 @@ translate korean EndGame_28150685:
 translate korean EndGame_b675a6ac:
 
     # "The spore storm is over, it's safe to go outside again. Please remain calm while the emergency services check the state of the town."
-    "포자 폭풍이 끝났습니다, 다시 밖으로 나가도 안전합니다. 응급 서비스가 마을 상태를 확인하는 동안 침착을 유지해 주세요."
+    "포자 폭풍이 끝났습니다, 다시 밖으로 나가도 안전합니다. 재난 대응팀이 마을 상태를 확인하는 동안 침착을 유지해 주세요."
 
 # game/script.rpy:535
 translate korean EndGame_550c6da2:
 
     # p " ...Is this over?"
-    p "...끝난 거야?"
+    p "...정말... 끝난 건가?"
 
 # game/script.rpy:536
 translate korean EndGame_9e5b188f:
 
     # "*You hesitate for a couple of minutes while the silence returns.*"
-    "*정적이 돌아오는 동안 몇 분간 망설인다.*"
+    "*이어지는 정적과 함께 당신은 몇 분간 고민한다.*"
 
 # game/script.rpy:537
 translate korean EndGame_3ad8ef07:
@@ -796,7 +796,7 @@ translate korean EndGame_3ad8ef07:
 translate korean EndGame_5e670f8c:
 
     # p "I better stay inside, just to make sure."
-    p "확실히 하기 위해 안에 있는 게 나을 것 같아."
+    p "혹시 모르니까 아직은 안에 있는 게 나을 것 같아."
 
 # game/script.rpy:549
 translate korean BadEnd_d9636445:
@@ -958,25 +958,25 @@ translate korean EndHugo_5cc82a4e:
 translate korean EndHugo_289d619d:
 
     # p "Not really. I've always loved technology and I'm really into computers so..."
-    p "별로. 난 항상 기술을 좋아했고 컴퓨터에 관심이 많아서..."
+    p "딱히. 내가 기술을 좋아하는 것도 있고, 컴퓨터에도 관심이 많아서..."
 
 # game/script.rpy:604
 translate korean EndHugo_65767ee8:
 
     # p "What do you do for a living?"
-    p "넌 뭐 하면서 살아?"
+    p "너는 뭐 하면서 사는데?"
 
 # game/script.rpy:606
 translate korean EndHugo_0f4cfa32:
 
     # b "We were talking about you..."
-    b "우리 네 얘기 하고 있었잖아..."
+    b "우리 지금 네 얘기 하고 있잖아..."
 
 # game/script.rpy:607
 translate korean EndHugo_a462f97d:
 
     # p "Well yeah but I also want to laugh about your job as much as you do about mine. What do you do?"
-    p "그래 근데 나도 네가 내 직업을 비웃은 것 처럼 놀리고 싶어. 그래서 무슨일 하는데?"
+    p "네가 방금 내 직업을 비웃었잖아. 나도 갚아줘야지. 그래서 무슨일 하는데?"
 
 # game/script.rpy:609
 translate korean EndHugo_58ed64a2:
@@ -988,7 +988,7 @@ translate korean EndHugo_58ed64a2:
 translate korean EndHugo_9857483c:
 
     # p "Oh like a government official? Come on... be more specific. A cop? You sure as hell don't look like one."
-    p "오 공무원 같은 거야? 좀 더 구체적으로. 경찰? 아냐, 확실히 경찰을 할 관상은 아니야 하하하."
+    p "오 공무원 같은 거야? 좀 더 구체적으로 설명해봐. 경찰? 아냐, 확실히 경찰을 할 관상은 아니야 하하하."
 
 # game/script.rpy:612
 translate korean EndHugo_1ea5c449:
@@ -1000,7 +1000,7 @@ translate korean EndHugo_1ea5c449:
 translate korean EndHugo_1f346edb:
 
     # p "It's not fair. You can laugh at my job and I can't even know yours?"
-    p "그건 불공평하지. 넌 내 직업으로 놀렸는데 난 네 직업도 모른다고?"
+    p "그건 불공평하지. 넌 내 직업을 놀렸는데 난 네 직업도 모르고 있다고?"
 
 # game/script.rpy:615
 translate korean EndHugo_bf51376b:
@@ -1060,7 +1060,7 @@ translate korean EndHugo_15678785:
 translate korean EndHugo_f97fc748:
 
     # p "I cleaned the basement by the way. In case you want to break in again."
-    p "그나저나 지하실은 내가 청소해 뒀어. 또 몰래 기어들어 오고 싶을 경우를 대비해서."
+    p "아무튼, 지하실은 내가 청소해 뒀어. 또 몰래 기어들어 오고 싶을 것 같아서."
 
 # game/script.rpy:633
 translate korean EndHugo_b43f090f:
@@ -1072,7 +1072,7 @@ translate korean EndHugo_b43f090f:
 translate korean EndHugo_2d105284:
 
     # p "Come on, it wasn't that bad."
-    p "에이, 그렇게 심하지 않았어."
+    p "에이, 그 정도로 심하지는 않았어."
 
 # game/script.rpy:636
 translate korean EndHugo_850ef128:
@@ -1096,7 +1096,7 @@ translate korean EndHugo_cf0d358c:
 translate korean EndHugo_ed954629:
 
     # p "I love spiders! They're so cute. Specially jumping spiders."
-    p "나 거미 좋아해! 진짜 귀여워. 특히 점프하는 거미."
+    p "나 거미 좋아해! 귀엽잖아. 특히 점프하는 거미들."
 
 # game/script.rpy:641
 translate korean EndHugo_d54d5c54:
@@ -1108,19 +1108,19 @@ translate korean EndHugo_d54d5c54:
 translate korean EndHugo_e232df6c:
 
     # b "You're full of surprises..."
-    b "넌 정말 놀라움으로 가득하네..."
+    b "참 알수록 신기한 놈이야..."
 
 # game/script.rpy:643
 translate korean EndHugo_d17c2b35:
 
     # p "Hahaha well... I'm a nerd."
-    p "하하하 음... 난 너드거든."
+    p "하하하 솔직히... 난 너드거든."
 
 # game/script.rpy:644
 translate korean EndHugo_cb74e98b:
 
     # b "You don't say... hahaha"
-    b "설마... 하하하"
+    b "말하지 않아도 알아... 하하하"
 
 # game/script.rpy:645
 translate korean EndHugo_f7b7a295:
@@ -1366,7 +1366,7 @@ translate korean EndOnna_8d710e20:
 translate korean EndOnna_c82cbcc9:
 
     # w "Aaand.. that I should drop saturday's cocktails and start drinking wine"
-    w "그리고.. 주말마다 마시던 칵테일은 그만두고, 지금처럼 우아하게 와인을 마시기 시작했지."
+    w "그리고.. 주말마다 마시던 칵테일은 끊고, 지금처럼 우아하게 와인을 마시고 있지."
 
 # game/script.rpy:718
 translate korean EndOnna_d6199fb6:
@@ -1426,7 +1426,7 @@ translate korean EndBoth_4e5215b5:
 translate korean EndBoth_1f55926a:
 
     # w "Banging like a maniac and with it's eyes covered in mold. The door frame was bulging in so much he was able to stick its fingers inside."
-    w "문은 미친 듯이 두드리고 눈은 곰팡이로 덮여 있었어. 문틀이 너무 휘어져서 손가락이 들어갈정도로 휘어졌고."
+    w "그놈이 문을 미친 듯이 두드리고 눈은 곰팡이로 덮여 있었어. 문틀은 너무 휘어져서 손가락이 들어갈 정도였고."
 
 # game/script.rpy:744
 translate korean EndBoth_23a37334:
@@ -1438,7 +1438,7 @@ translate korean EndBoth_23a37334:
 translate korean EndBoth_51719717:
 
     # w "I knocked down a table I have in my hall to try and slow it down, and then I called [Name]."
-    w "복도에 있는 테이블을 넘어뜨려서 문을 막고, [Name]한테 전화했어."
+    w "복도에 있는 테이블을 넘어뜨려서 문을 막고, [Name]한테 전화했지."
 
 # game/script.rpy:746
 translate korean EndBoth_ce62f667:
@@ -1510,7 +1510,7 @@ translate korean EndBoth_92ebcb07:
 translate korean EndBoth_e82d17db:
 
     # p "Speak for yourself. I also had a stranger break into my basement and coerce me to let him in."
-    p "네 얘기나 좀 해봐. 나도 왠 낯선 사람이 지하실에 침입해서 들여보내라고 협박당했거든."
+    p "네 얘기나 좀 해봐. 나도 웬 낯선 사람이 지하실에 침입해서 들여보내라고 협박당했잖아."
 
 # game/script.rpy:761
 translate korean EndBoth_d95cb3fd:
@@ -1522,7 +1522,7 @@ translate korean EndBoth_d95cb3fd:
 translate korean EndBoth_bba34c99:
 
     # p "Oh my god, I miss my cat. I'm cold. wahh wahh wahhh..."
-    p "그때 뭐라 했더라? 아 제발요, 내 고양이가 보고 싶어요. 추워요. 엉엉엉..."
+    p "그때 뭐라 했더라? 아 제발요, 내 고양이가 보고 싶어요. 추워요. 흑흑..."
 
 # game/script.rpy:764
 translate korean EndBoth_6d776065:
@@ -1576,7 +1576,7 @@ translate korean EndBoth_ad5386c9:
 translate korean EndBoth_e3adffd3:
 
     # w "A weird man tried to sell me a water filter. He said he was from the PCD. What was his name..."
-    w "어떤 이상한 남자가 정수 필터를 팔려고 했어. 자기가 방역관리국에서 왔다고 하면서. 이름이 뭐였더라..."
+    w "어떤 이상한 남자가 정수 필터를 팔려고 했어. 자기가 질병 관리국에서 왔다고 하면서. 이름이 뭐였더라..."
 
 # game/script.rpy:778
 translate korean EndBoth_7485713c:
@@ -1606,7 +1606,7 @@ translate korean EndBoth_bcb10917:
 translate korean EndBoth_3e1f6732:
 
     # p "Tall, with a one day beard. Pulled back half mane, sunglasses and a suit. He was maybe 35 or something like that."
-    p "키가 크고, 올백 머리에, 선글라스에 정장을 입었어. 수염은 하루 정도 안 깎은 것 같고. 35살 정도 됐을 거야."
+    p "키가 크고, 올백 머리에, 선글라스와 정장을 입고 있었어. 수염은 하루 정도 안 깎은 것 같고. 35살 정도 됐을 거야."
 
 # game/script.rpy:784
 translate korean EndBoth_a9ca9f9a:
@@ -1696,7 +1696,7 @@ translate korean EndNoah_9715ed14:
 translate korean EndNoah_abeceb40:
 
     # p "Practice? How many times have you done this?"
-    p "연습? 이걸 몇 번이나 한 거야?"
+    p "연습이라고? 이걸 몇 번이나 해본 거야?"
 
 # game/script.rpy:815
 translate korean EndNoah_b9b755e5:
@@ -1708,7 +1708,7 @@ translate korean EndNoah_b9b755e5:
 translate korean EndNoah_5c4826be:
 
     # r "I won't say anything without a lawyer present."
-    r "..변호사 오기 전에는 아무 말도 안 할 거에요."
+    r "..변호사 부르기 전에는 아무 말도 안 할 거에요."
 
 # game/script.rpy:818
 translate korean EndNoah_dd13d5fc:
@@ -1792,13 +1792,13 @@ translate korean EndNoah_850ef128:
 translate korean EndNoah_16fe4549:
 
     # b "Believe me, I know what you're feeling."
-    b "믿어, 네 기분 알아."
+    b "날 믿어, 네 기분 어떤지 알아."
 
 # game/script.rpy:835
 translate korean EndNoah_3d2a0cb0:
 
     # b "But I can assure you this life will take you to only one place, and it's a shitty one."
-    b "하지만 이렇게 살면 나중에 갈 수 있는 곳은 한 곳뿐이야. 그리고 그곳은 더 최악일 거고."
+    b "하지만, 내가 장담하는데 이렇게 살면 나중에 갈 수 있는 곳은 딱 한 곳뿐이야. 아주 지랄맞은 곳으로."
 
 # game/script.rpy:837
 translate korean EndNoah_a9b2215e:
@@ -1834,7 +1834,7 @@ translate korean EndNoah_b9b755e5_1:
 translate korean EndNoah_262089a7:
 
     # r "I doubt that'll be my case."
-    r "아마 저는 안 그럴 거에요."
+    r "...저는 형처럼 되지는 못할 거에요."
 
 # game/script.rpy:844
 translate korean EndNoah_b2310fb5:
@@ -1900,7 +1900,7 @@ translate korean EndNoah_c37b920e:
 translate korean EndNoah_3e257dc8:
 
     # b "But I'm here! Despite everything, I'm still here and I'm still me!"
-    b "그런데 여기 있어! 그런 일이 있었어도, 나는 아직 여기 있다고!"
+    b "그런데도 지금 여기 있잖아! 그딴 일을 겪고도, 나는 아직 나로서 살아있다고!"
 
 # game/script.rpy:856
 translate korean EndNoah_2b235ecf:
@@ -1912,19 +1912,19 @@ translate korean EndNoah_2b235ecf:
 translate korean EndNoah_dab5fbfe:
 
     # r "Haven't you thought that maybe I'm not like you? That maybe I'm not capable of doing what you did?"
-    r "내가 너 같지 않을 수도 있다고 생각 안 해봤어?"
+    r "제가 형 같지 않을 수도 있다고 생각 안 해봤어요? 제가 형이 했던 것처럼 못할 수도 있다고?"
 
 # game/script.rpy:859
 translate korean EndNoah_6cc89656:
 
     # r "Congratulations! You're awesome and did awesome things despite your shitty circumstances! Good for you, dumbass!"
-    r "축하해! 그런 상황에서도 참 대단한 일을 했네! 참 잘했어, 이 멍청아!"
+    r "그거 참 잘됐네요! 그딴 상황에서도 아주 대단한 일을 했어요! 참 잘했어요, 이 멍청아!"
 
 # game/script.rpy:861
 translate korean EndNoah_b82130ff:
 
     # b "Fuck that too. I'm not awesome. Neither are you or [Name]."
-    b "난 그렇게 대단한 놈이 아니야. 너도, [Name]도 마찬가지야."
+    b "난 그렇게 대단한 놈이 아니야. 너도 그렇고. [Name], 너도 마찬가지야."
 
 # game/script.rpy:862
 translate korean EndNoah_c8de8992:
@@ -2128,7 +2128,7 @@ translate korean GameOverSilvia_5a4956ec:
 translate korean GameOverSilvia_faaadfd1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐요! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭔 짓거리를 하는 거-"
 
 # game/script.rpy:943
 translate korean GameOverSilvia_d55a9bd3:
@@ -2398,7 +2398,7 @@ translate korean GameOverSilvia_5a4956ec_1:
 translate korean GameOverSilvia_faaadfd1_1:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐요! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭔 짓거리를 하는 거-"
 
 # game/script.rpy:1064
 translate korean GameOverSilvia_d55a9bd3_2:
@@ -2662,7 +2662,7 @@ translate korean GameOverSilvia_5a4956ec_2:
 translate korean GameOverSilvia_faaadfd1_2:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐요! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭔 짓거리를 하는 거-"
 
 # game/script.rpy:1182
 translate korean GameOverSilvia_d55a9bd3_4:
@@ -2914,7 +2914,7 @@ translate korean GameOverSilvia_5a4956ec_3:
 translate korean GameOverSilvia_faaadfd1_3:
 
     # n "H-Hey! What the heck are you do-"
-    n "이-이봐요! 도대체 뭐 하는 거-"
+    n "이-이봐요! 도대체 뭔 짓거리를 하는 거-"
 
 # game/script.rpy:1297
 translate korean GameOverSilvia_d55a9bd3_6:

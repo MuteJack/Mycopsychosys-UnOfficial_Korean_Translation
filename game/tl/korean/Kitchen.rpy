@@ -4,5 +4,5 @@
 translate korean Beer_d2a25338:
 
     # p "Yeah, that will do."
-    p "그래, 이 정도면 될 거 같아."
+    p "좋아, 이 정도면 충분할 거 같아."
 

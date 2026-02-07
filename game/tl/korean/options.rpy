@@ -1,41 +1,5 @@
 # TODO: Translation updated at 2026-01-11 00:00:00
 
-# Font settings moved to script.rpy for consistency with other languages
-
-# Additional style overrides for Korean
-translate korean style gui_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style gui_label_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style input:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style choice_button_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style input_prompt:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style confirm_prompt_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style skip_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-    color "#ffffff"
-    size 30
-
-translate korean style history_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style history_name_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-translate korean style history_label_text:
-    font "fonts/NanumGothic/NanumGothic.ttf"
-
-# Translation
 translate korean strings:
 
     # game/options.rpy:15
@@ -69,4 +33,52 @@ translate korean strings:
 
     old "TV presenter"
     new "TV 진행자"
+
+# Font settings moved to script.rpy for consistency with other languages
+# Additional style overrides for Korean
+translate korean style gui_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style gui_label_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style input:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style choice_button_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style input_prompt:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style confirm_prompt_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style skip_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+    color "#ffffff"
+    size 30
+
+translate korean style history_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style history_name_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+translate korean style history_label_text:
+    font "fonts/NanumGothic/NanumGothic.ttf"
+
+# # Font settings (for Script.rpy)
+# translate korean python:
+#     gui.text_font = "fonts/NanumGothic/NanumGothic.ttf"
+#     gui.name_text_font = "fonts/NanumGothic/NanumGothic.ttf"
+#     gui.interface_font = "fonts/NanumGothic/NanumGothic.ttf"
+#     gui.button_text_font = "fonts/NanumGothic/NanumGothic.ttf"
+#     gui.choice_button_text_font = "fonts/NanumGothic/NanumGothic.ttf"
+#     gui.system_font = "fonts/NanumGothic/NanumGothic.ttf"
+#     style.default.font = "fonts/NanumGothic/NanumGothic.ttf"
+#     style.button_text.font = "fonts/NanumGothic/NanumGothic.ttf"
+#     style.label_text.font = "fonts/NanumGothic/NanumGothic.ttf"
+#     style.prompt_text.font = "fonts/NanumGothic/NanumGothic.ttf"
+#     style.prompt_text.font = "fonts/NanumGothic/NanumGothic.ttf"
 

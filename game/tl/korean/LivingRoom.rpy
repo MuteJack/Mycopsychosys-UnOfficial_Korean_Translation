@@ -46,13 +46,13 @@ translate korean Talk_7b4ea353:
 translate korean Talk_0e6a59d1:
 
     # p "Yeah, I wanted to ask you..."
-    p "네, 물어볼 게 있어서요..."
+    p "네, 안그래도 물어보고 싶은게 있는데요..."
 
 # game/LivingRoom.rpy:107
 translate korean Talk_4448a7b1:
 
     # b "What's up?"
-    b "뭔데?"
+    b "무슨 일인데요?"
 
 # game/LivingRoom.rpy:108
 translate korean Talk_39c30543:
@@ -88,7 +88,7 @@ translate korean Talk_b5b481d3:
 translate korean Talk_57a2b7e3:
 
     # b "What did you tell her [Name]!? Did you mention I'm here?!" with hpunch
-    b "[Name], 그녀한테 뭐라고 했어!? 내가 여기 있다고 말했어!?" with hpunch
+    b "[Name], 그녀한테 뭐라고 했는데!? 내가 여기 있다고 말했어!?" with hpunch
 
 # game/LivingRoom.rpy:116
 translate korean Talk_e9033a00:
@@ -154,7 +154,7 @@ translate korean Talk_c8ea8a4a:
 translate korean Talk_b4f79d0c:
 
     # p "Okay Hugo, don't worry. I won't tell her anything."
-    p "알았어 휴고, 걱정하지 마. 아무 말도 안 할 테니까."
+    p "알았어요 휴고씨, 걱정하지 마세요. 아무 말도 안 할 테니까."
 
 # game/LivingRoom.rpy:129
 translate korean Talk_48db00ed:
@@ -178,7 +178,7 @@ translate korean Talk_81cce0d2:
 translate korean Talk_235f8839:
 
     # p "Haha thanks."
-    p "하하, 고마워."
+    p "하하, 고마워요."
 
 # game/LivingRoom.rpy:143
 translate korean Talk_4f1ca7db:
@@ -202,7 +202,7 @@ translate korean Talk_b370533e:
 translate korean Talk_5c8ddf6d:
 
     # p "Oh no no, it's just that you surprised me."
-    p "아 아니아니, 그냥 놀라서."
+    p "아 아니아니, 그냥 조금 놀라서요."
 
 # game/LivingRoom.rpy:147
 translate korean Talk_c8ea8a4a_1:
@@ -256,13 +256,13 @@ translate korean Talk_d2fb0866:
 translate korean Talk_1414fee3:
 
     # p "Actually, the kid is also staying."
-    p "사실, 그 꼬마도 여기 있을 거야."
+    p "사실, 그 꼬마도 여기 남아있을 거야."
 
 # game/LivingRoom.rpy:172
 translate korean Talk_e69e0e22:
 
     # b "Fine by me."
-    b "난 괜찮아."
+    b "난 상관없어."
 
 # game/LivingRoom.rpy:173
 translate korean Talk_fb6e9f19:
@@ -328,13 +328,13 @@ translate korean Talk_9a1db8c2:
 translate korean Talk_2d30f7d7:
 
     # p "Not yet. Just give me a second."
-    p "아직. 잠깐만."
+    p "아직, 잠깐만 기다려줘."
 
 # game/LivingRoom.rpy:195
 translate korean Talk_f6346a4e:
 
     # b "Okay, I won't leave! Take your time."
-    b "알았어, 안 갈게! 천천히 해."
+    b "알았어, 어디 안 갈테니까 천천히 해."
 
 # game/LivingRoom.rpy:198
 translate korean Talk_a67c89a0:
@@ -430,13 +430,13 @@ translate korean Talk_080785ab:
 translate korean Talk_4729ab85:
 
     # b "I know what I want and I'm not afraid to ask for it."
-    b "나는 내가 뭘 원하는지 알고, 물어보는 걸 꺼리지 않아."
+    b "나는 내가 뭘 원하는지 알고, 물어보는 걸 꺼리는 성격이 아니라서 말이야."
 
 # game/LivingRoom.rpy:224
 translate korean Talk_bcebff91:
 
     # p "You're..."
-    p "너..."
+    p "너는..."
 
 # game/LivingRoom.rpy:225
 translate korean Talk_c8ea8a4a_2:
@@ -448,7 +448,7 @@ translate korean Talk_c8ea8a4a_2:
 translate korean Talk_a88428d4:
 
     # p "I'll grab us a beer..."
-    p "맥주 가져올게..."
+    p "맥주나 가져올게..."
 
 # game/LivingRoom.rpy:233
 translate korean Talk_607c1ad1_1:
@@ -676,7 +676,7 @@ translate korean TalkNoah_62c8f79d:
 translate korean TalkNoah_1f83ec50:
 
     # p "I really just want you to be safe. I have some sodas in the fridge, we can wait for a bit."
-    p "난 네가 안전했으면 좋겠어. 냉장고에 음료수 있으니까 잠깐 기다리자."
+    p "난 네가 안전했으면 좋겠어. 냉장고에 음료수도 있으니까 조금만 기다려보자."
 
 # game/LivingRoom.rpy:313
 translate korean TalkNoah_1b0b1adb:
@@ -688,7 +688,7 @@ translate korean TalkNoah_1b0b1adb:
 translate korean TalkNoah_6917c316:
 
     # r "Will that weird guy stay with us?"
-    r "그 이상한 형도 같이 있을 거예요?"
+    r "그 이상한 형도 여기 같이 있을 거예요?"
 
 # game/LivingRoom.rpy:315
 translate korean TalkNoah_56e9b13e:
@@ -778,7 +778,7 @@ translate korean strings:
 
     # game/LivingRoom.rpy:167
     old "Are you ready?\n(WARNING. This will trigger the end of the game. Make sure you don't have anything left to do.)"
-    new "술을 마시겠습니까?\n(경고. 이것은 게임의 엔딩을 시작합니다. 남은 할 일이 없는지 확인하세요.)"
+    new "술을 마시겠습니까?\n(경고. 이것은 게임의 엔딩으로 이어집니다. 남은 할 일이 없는지 확인하세요.)"
 
     # game/LivingRoom.rpy:321
     old "Will there be someone else? (WARNING: This will affect the ending of the game.)"

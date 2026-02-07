@@ -76,7 +76,7 @@ translate korean AnswerKnocking_b6a5ab24:
 translate korean AnswerKnocking_b786199b:
 
     # p "From Hugo. Plague control department?"
-    p "휴고 씨 거네. 질병 관리부?"
+    p "휴고 씨 거네. 질병 관리국?"
 
 # game/Basement.rpy:97
 translate korean AnswerKnocking_602135bb:
@@ -202,7 +202,7 @@ translate korean AnswerKnocking_76e91f82:
 translate korean AnswerKnocking_6191c3d9:
 
     # b "I had no choice. I wasn't getting home on time and had to take refuge somewhere."
-    b "선택의 여지가 없었어요. 시간 안에 집에 갈 수 없어서 어떻게든 피해야 했거든요."
+    b "선택의 여지가 없었어요. 집까지 갈 시간이 없어서 어디로든 피해야 했거든요."
 
 # game/Basement.rpy:130
 translate korean AnswerKnocking_884b69c4:
@@ -364,7 +364,7 @@ translate korean AnswerKnocking_9bb26dc6_1:
 translate korean AnswerKnocking_3d09d55f:
 
     # p " Sorry man, I can't."
-    p "미안해요, 그건 안 돼요."
+    p "미안하지만, 그건 안 돼요."
 
 # game/Basement.rpy:175
 translate korean AnswerKnocking_d1f991f1:
@@ -394,7 +394,7 @@ translate korean AnswerKnocking_e44be370:
 translate korean AnswerKnocking_0d8b9f5c:
 
     # p " So, is there anything you need?"
-    p "그래서, 필요한 거 있어요?"
+    p "그래서, 필요한 거라도 있어요?"
 
 # game/Basement.rpy:180
 translate korean AnswerKnocking_6f7607fb:
@@ -430,7 +430,7 @@ translate korean AnswerKnocking_f9522728:
 translate korean AnswerKnocking_09bbf021:
 
     # p " It won't be as cozy as a blanket, but it'll be better than nothing, right?"
-    p "담요만큼 따뜻하진 않겠지만, 없는 것보다 나을 거예요, 맞죠?"
+    p "담요만큼 따뜻하진 않겠지만, 없는 것보다 나을 거예요, 안그래요?"
 
 # game/Basement.rpy:186
 translate korean AnswerKnocking_51b608f9:
@@ -442,19 +442,19 @@ translate korean AnswerKnocking_51b608f9:
 translate korean AnswerKnocking_3dba1793:
 
     # p " Hold on here, I'll bring a towel."
-    p "여기서 기다려요, 수건을 가져올게요."
+    p "잠시만 기다려요, 수건을 가져올게요."
 
 # game/Basement.rpy:188
 translate korean AnswerKnocking_3c763662:
 
     # b "Sure, I won't go anywhere"
-    b "네, 어디 안 갈게요"
+    b "네, 여기서 기다리고 있을게요"
 
 # game/Basement.rpy:193
 translate korean AnswerKnocking_8c6dd681:
 
     # p " Here, try this."
-    p "여기, 이거 써봐요."
+    p "여기, 이거라도 한번 써보세요."
 
 # game/Basement.rpy:194
 translate korean AnswerKnocking_87f8bcab:
@@ -484,13 +484,13 @@ translate korean AnswerKnocking_40c2c8c6:
 translate korean AnswerKnocking_0ebf4573:
 
     # "*He pulls the towel and you can hear him wrapping himself with it.*"
-    "*수건을 당기더니 그걸로 몸을 감싸는 소리가 들린다.*"
+    "*그는 수건을 받았고, 잠시 후 그걸로 몸을 감싸는 소리가 들린다.*"
 
 # game/Basement.rpy:200
 translate korean AnswerKnocking_94167d80:
 
     # b "You know what? It's actually better than what I thought."
-    b "그거 알아요? 이거, 생각보다 괞찮네요."
+    b "...그거 알아요? 이거, 생각보다 괞찮네요."
 
 # game/Basement.rpy:201
 translate korean AnswerKnocking_83df9177:
@@ -508,7 +508,7 @@ translate korean AnswerKnocking_4a375dd2:
 translate korean AnswerKnocking_482b245a:
 
     # p " Your partner is waiting for you?"
-    p "친구가 기다리고 있어요?"
+    p "친구가 기다리고 있나봐요?"
 
 # game/Basement.rpy:204
 translate korean AnswerKnocking_35ba70ca:
@@ -610,7 +610,7 @@ translate korean AnswerKnocking_8668643e:
 translate korean AnswerKnocking_c4582446:
 
     # b "Yeah, sorry, just wanted to talk to you to thank you again."
-    b "네, 미안해요, 그냥 다시 한번 고맙다고 말하고 싶었어요."
+    b "아, 아니에요. 그저 다시 한번 고맙다는 말을 하고 싶었어요."
 
 # game/Basement.rpy:237
 translate korean AnswerKnocking_f1404d6b:
@@ -634,7 +634,7 @@ translate korean AnswerKnocking_6b041907:
 translate korean AnswerKnocking_4f0ebee0:
 
     # b "But you've helped me without even knowing what I look like, and in a situation like this shitty sporestorm."
-    b "그런데 당신은 제가 어떻게 생겼는지도 모르면서 도와줬어요, 이 지긋지긋한 포자 폭풍 상황에서요."
+    b "그런데 당신은 제가 어떻게 생겼는지도 모르면서 도와줬잖아요, 이 거지같은 포자 폭풍 상황에서요."
 
 # game/Basement.rpy:241
 translate korean AnswerKnocking_84de7525:
@@ -658,7 +658,7 @@ translate korean AnswerKnocking_5aa415e7:
 translate korean AnswerKnocking_1311b474:
 
     # b "You know what, when all of this ends, I'll invite you to a beer or something."
-    b "있잖아요, 상황이 끝나면 제가 맥주라도 한잔 살게요."
+    b "있잖아요, 폭풍이 끝나면 나중에 제가 맥주라도 한잔 살게요."
 
 # game/Basement.rpy:245
 translate korean AnswerKnocking_310fbe76:
@@ -706,7 +706,7 @@ translate korean AnswerKnocking_940c1567:
 translate korean AnswerKnocking_ebd5f1eb:
 
     # p " Oh I'll get it back I promise you that."
-    p "아, 그건 반드시 돌려받을 거예요 약속해요."
+    p "아, 그건 반드시 돌려받을테니 걱정마요."
 
 # game/Basement.rpy:255
 translate korean AnswerKnocking_553d7f0a:
@@ -862,7 +862,7 @@ translate korean AnswerKnocking_84909904_3:
 translate korean AnswerKnocking_a4d98632:
 
     # p " I hope no one else ends up in my basement tonight"
-    p "오늘 밤에는 지하실에 더 이상 아무도 더 안 왔으면 좋겠는데"
+    p "오늘 밤에는 지하실에 더 이상 아무도 더 안 왔으면..."
 
 # game/Basement.rpy:314
 translate korean AnswerKnocking_6445298e:
@@ -892,7 +892,7 @@ translate korean SomeoneKnocking_a7fccd17:
 translate korean SomeoneKnocking_08794712:
 
     # p " Someone is knocking on my basement door?"
-    p "누가 지하실 문을 두드리고 있어?"
+    p "누가 내 지하실 문을 두드리고 있잖아?"
 
 # game/Basement.rpy:336
 translate korean SomeoneKnocking_84909904:
@@ -958,7 +958,7 @@ translate korean LetHimInGood_c7ff8886:
 translate korean LetHimInGood_481cfb28:
 
     # b "Really?"
-    b "진짜로요?"
+    b "정말이에요?"
 
 # game/Basement.rpy:359
 translate korean LetHimInGood_675d3507:
